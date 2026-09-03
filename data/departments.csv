@@ -1,0 +1,4 @@
+department_code,department_name,system_source,color_code,description
+ENG,Civil Engineering (P-Way),TMS,#2563eb,"Permanent Way, Track Structure, Sleepers, Ballast, Bridges, Turnouts"
+OHE,Traction Distribution / OHE,TDMS,#f59e0b,"25kV AC Overhead Catenary, Contact Wire, Cantilevers, Neutral Sections, Sub-stations"
+S&T,Signal & Telecommunication,SMMS,#10b981,"Electronic Interlocking, Point Machines, Digital Axle Counters, Track Circuits, Signals"

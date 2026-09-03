@@ -1,0 +1,417 @@
+id,asset_id,name,asset_type,department,section_id,section_code,condition_score,last_maintenance_date,next_due_date,criticality
+1,AST_ENG_0001,SEC_001 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,1,SEC_001,54.3,2026-07-12,2026-09-10,1
+2,AST_ENG_0002,SEC_001 Railway Bridge Girder,Railway Bridge Girder,ENG,1,SEC_001,82.7,2026-04-17,2026-08-30,4
+3,AST_ENG_0003,SEC_001 Ballast Cushion,Ballast Cushion,ENG,1,SEC_001,98.0,2025-12-18,2026-09-18,3
+4,AST_OHE_0004,SEC_001 OHE Mast Grounding,OHE Mast Grounding,OHE,1,SEC_001,82.4,2026-01-23,2026-09-20,2
+5,AST_OHE_0005,SEC_001 Traction Substation Feeder,Traction Substation Feeder,OHE,1,SEC_001,88.8,2026-06-18,2026-08-15,4
+6,AST_OHE_0006,SEC_001 Neutral Section Insulator,Neutral Section Insulator,OHE,1,SEC_001,91.1,2026-03-11,2026-09-29,4
+7,AST_S&T_0007,SEC_001 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,1,SEC_001,47.5,2026-04-01,2026-08-17,1
+8,AST_S&T_0008,SEC_001 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,1,SEC_001,61.7,2026-02-07,2026-08-03,4
+9,AST_S&T_0009,SEC_001 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,1,SEC_001,80.3,2026-02-16,2026-09-22,5
+10,AST_ENG_0010,SEC_002 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,2,SEC_002,31.9,2026-02-21,2026-07-29,3
+11,AST_ENG_0011,SEC_002 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,2,SEC_002,75.2,2026-04-16,2026-08-04,3
+12,AST_OHE_0012,SEC_002 Cantilever Assembly,Cantilever Assembly,OHE,2,SEC_002,77.7,2026-03-01,2026-09-07,3
+13,AST_OHE_0013,SEC_002 Cantilever Assembly,Cantilever Assembly,OHE,2,SEC_002,44.1,2026-03-12,2026-08-20,3
+14,AST_S&T_0014,SEC_002 Electric Point Machine,Electric Point Machine,S&T,2,SEC_002,25.1,2026-07-10,2026-09-26,5
+15,AST_S&T_0015,SEC_002 Electric Point Machine,Electric Point Machine,S&T,2,SEC_002,51.7,2026-03-30,2026-09-07,2
+16,AST_ENG_0016,SEC_003 Railway Bridge Girder,Railway Bridge Girder,ENG,3,SEC_003,95.1,2026-02-10,2026-08-20,5
+17,AST_ENG_0017,SEC_003 Track Segment,Track Segment,ENG,3,SEC_003,43.3,2026-04-06,2026-09-12,3
+18,AST_OHE_0018,SEC_003 OHE Mast Grounding,OHE Mast Grounding,OHE,3,SEC_003,43.2,2026-01-10,2026-09-11,3
+19,AST_OHE_0019,SEC_003 25kV Catenary Wire,25kV Catenary Wire,OHE,3,SEC_003,39.2,2026-04-24,2026-07-27,2
+20,AST_S&T_0020,SEC_003 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,3,SEC_003,59.0,2026-01-17,2026-08-05,3
+21,AST_S&T_0021,SEC_003 Electric Point Machine,Electric Point Machine,S&T,3,SEC_003,27.6,2026-06-05,2026-08-22,3
+22,AST_ENG_0022,SEC_004 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,4,SEC_004,72.7,2026-04-10,2026-08-08,5
+23,AST_ENG_0023,SEC_004 Ballast Cushion,Ballast Cushion,ENG,4,SEC_004,40.2,2026-02-23,2026-08-24,4
+24,AST_ENG_0024,SEC_004 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,4,SEC_004,96.8,2026-05-08,2026-08-11,5
+25,AST_OHE_0025,SEC_004 Neutral Section Insulator,Neutral Section Insulator,OHE,4,SEC_004,70.2,2026-02-25,2026-08-09,4
+26,AST_OHE_0026,SEC_004 OHE Mast Grounding,OHE Mast Grounding,OHE,4,SEC_004,89.8,2026-04-20,2026-09-06,3
+27,AST_OHE_0027,SEC_004 Contact Wire Segment,Contact Wire Segment,OHE,4,SEC_004,73.2,2026-03-04,2026-07-21,3
+28,AST_S&T_0028,SEC_004 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,4,SEC_004,55.8,2026-04-09,2026-08-07,5
+29,AST_S&T_0029,SEC_004 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,4,SEC_004,75.8,2026-05-29,2026-09-05,4
+30,AST_ENG_0030,SEC_005 Track Segment,Track Segment,ENG,5,SEC_005,43.9,2026-01-01,2026-08-13,3
+31,AST_ENG_0031,SEC_005 Railway Bridge Girder,Railway Bridge Girder,ENG,5,SEC_005,52.1,2026-02-11,2026-08-04,3
+32,AST_OHE_0032,SEC_005 Neutral Section Insulator,Neutral Section Insulator,OHE,5,SEC_005,39.3,2026-05-08,2026-09-16,3
+33,AST_OHE_0033,SEC_005 Cantilever Assembly,Cantilever Assembly,OHE,5,SEC_005,69.5,2026-03-18,2026-09-06,4
+34,AST_S&T_0034,SEC_005 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,5,SEC_005,93.2,2026-03-03,2026-08-30,3
+35,AST_S&T_0035,SEC_005 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,5,SEC_005,57.7,2026-04-24,2026-07-31,1
+36,AST_S&T_0036,SEC_005 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,5,SEC_005,91.5,2026-05-06,2026-08-10,4
+37,AST_ENG_0037,SEC_006 Turnout / Point Crossing,Turnout / Point Crossing,ENG,6,SEC_006,25.6,2026-01-30,2026-09-14,5
+38,AST_ENG_0038,SEC_006 Turnout / Point Crossing,Turnout / Point Crossing,ENG,6,SEC_006,84.0,2026-07-12,2026-07-27,2
+39,AST_OHE_0039,SEC_006 Neutral Section Insulator,Neutral Section Insulator,OHE,6,SEC_006,41.5,2026-01-13,2026-08-29,2
+40,AST_OHE_0040,SEC_006 OHE Mast Grounding,OHE Mast Grounding,OHE,6,SEC_006,92.6,2026-01-17,2026-09-12,3
+41,AST_S&T_0041,SEC_006 Electric Point Machine,Electric Point Machine,S&T,6,SEC_006,27.2,2026-03-18,2026-09-22,4
+42,AST_S&T_0042,SEC_006 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,6,SEC_006,41.3,2026-02-13,2026-08-19,5
+43,AST_S&T_0043,SEC_006 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,6,SEC_006,62.1,2026-06-29,2026-07-25,3
+44,AST_ENG_0044,SEC_007 Railway Bridge Girder,Railway Bridge Girder,ENG,7,SEC_007,97.4,2026-05-17,2026-08-03,4
+45,AST_ENG_0045,SEC_007 Track Segment,Track Segment,ENG,7,SEC_007,88.9,2026-05-10,2026-08-28,5
+46,AST_OHE_0046,SEC_007 Traction Substation Feeder,Traction Substation Feeder,OHE,7,SEC_007,25.5,2026-05-10,2026-08-20,4
+47,AST_OHE_0047,SEC_007 Neutral Section Insulator,Neutral Section Insulator,OHE,7,SEC_007,46.3,2025-12-25,2026-09-27,2
+48,AST_S&T_0048,SEC_007 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,7,SEC_007,85.6,2026-02-19,2026-09-21,4
+49,AST_S&T_0049,SEC_007 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,7,SEC_007,39.7,2026-04-13,2026-08-09,3
+50,AST_S&T_0050,SEC_007 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,7,SEC_007,59.1,2026-04-24,2026-08-21,2
+51,AST_ENG_0051,SEC_008 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,8,SEC_008,76.6,2026-04-12,2026-08-06,3
+52,AST_ENG_0052,SEC_008 Ballast Cushion,Ballast Cushion,ENG,8,SEC_008,87.5,2026-07-04,2026-08-19,2
+53,AST_ENG_0053,SEC_008 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,8,SEC_008,86.4,2026-03-25,2026-09-17,2
+54,AST_OHE_0054,SEC_008 Cantilever Assembly,Cantilever Assembly,OHE,8,SEC_008,52.8,2026-02-03,2026-07-30,2
+55,AST_OHE_0055,SEC_008 25kV Catenary Wire,25kV Catenary Wire,OHE,8,SEC_008,56.7,2026-05-27,2026-09-05,5
+56,AST_S&T_0056,SEC_008 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,8,SEC_008,96.0,2026-05-18,2026-07-27,3
+57,AST_S&T_0057,SEC_008 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,8,SEC_008,70.3,2026-06-16,2026-09-05,5
+58,AST_S&T_0058,SEC_008 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,8,SEC_008,65.5,2026-02-16,2026-08-24,3
+59,AST_ENG_0059,SEC_009 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,9,SEC_009,42.7,2026-02-02,2026-08-01,2
+60,AST_ENG_0060,SEC_009 Track Segment,Track Segment,ENG,9,SEC_009,38.4,2026-02-16,2026-09-09,4
+61,AST_ENG_0061,SEC_009 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,9,SEC_009,68.9,2026-04-15,2026-08-30,4
+62,AST_OHE_0062,SEC_009 Traction Substation Feeder,Traction Substation Feeder,OHE,9,SEC_009,48.7,2026-01-16,2026-09-20,4
+63,AST_OHE_0063,SEC_009 OHE Mast Grounding,OHE Mast Grounding,OHE,9,SEC_009,71.1,2026-04-09,2026-08-10,3
+64,AST_S&T_0064,SEC_009 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,9,SEC_009,30.5,2026-03-11,2026-08-05,3
+65,AST_S&T_0065,SEC_009 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,9,SEC_009,97.6,2026-06-07,2026-09-23,3
+66,AST_ENG_0066,SEC_010 Turnout / Point Crossing,Turnout / Point Crossing,ENG,10,SEC_010,81.7,2026-03-22,2026-08-24,3
+67,AST_ENG_0067,SEC_010 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,10,SEC_010,50.8,2026-02-27,2026-08-06,4
+68,AST_OHE_0068,SEC_010 Cantilever Assembly,Cantilever Assembly,OHE,10,SEC_010,90.7,2026-01-02,2026-07-30,1
+69,AST_OHE_0069,SEC_010 25kV Catenary Wire,25kV Catenary Wire,OHE,10,SEC_010,61.4,2026-04-12,2026-09-16,4
+70,AST_S&T_0070,SEC_010 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,10,SEC_010,60.1,2026-02-20,2026-09-13,3
+71,AST_S&T_0071,SEC_010 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,10,SEC_010,59.8,2026-01-16,2026-08-03,5
+72,AST_S&T_0072,SEC_010 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,10,SEC_010,71.7,2026-05-02,2026-08-11,4
+73,AST_ENG_0073,SEC_011 Ballast Cushion,Ballast Cushion,ENG,11,SEC_011,65.0,2026-01-17,2026-08-24,3
+74,AST_ENG_0074,SEC_011 Ballast Cushion,Ballast Cushion,ENG,11,SEC_011,26.6,2026-04-14,2026-09-26,3
+75,AST_ENG_0075,SEC_011 Turnout / Point Crossing,Turnout / Point Crossing,ENG,11,SEC_011,70.9,2026-03-21,2026-09-03,4
+76,AST_OHE_0076,SEC_011 OHE Mast Grounding,OHE Mast Grounding,OHE,11,SEC_011,32.8,2026-02-26,2026-09-21,4
+77,AST_OHE_0077,SEC_011 Cantilever Assembly,Cantilever Assembly,OHE,11,SEC_011,41.7,2026-01-14,2026-09-19,5
+78,AST_OHE_0078,SEC_011 Cantilever Assembly,Cantilever Assembly,OHE,11,SEC_011,94.8,2025-12-24,2026-09-16,5
+79,AST_S&T_0079,SEC_011 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,11,SEC_011,91.4,2026-05-25,2026-08-28,4
+80,AST_S&T_0080,SEC_011 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,11,SEC_011,81.2,2026-01-08,2026-08-01,5
+81,AST_ENG_0081,SEC_012 Track Segment,Track Segment,ENG,12,SEC_012,86.6,2026-03-03,2026-09-24,3
+82,AST_ENG_0082,SEC_012 Railway Bridge Girder,Railway Bridge Girder,ENG,12,SEC_012,43.3,2026-07-08,2026-09-09,1
+83,AST_ENG_0083,SEC_012 Turnout / Point Crossing,Turnout / Point Crossing,ENG,12,SEC_012,91.0,2026-01-10,2026-08-01,1
+84,AST_OHE_0084,SEC_012 Contact Wire Segment,Contact Wire Segment,OHE,12,SEC_012,39.5,2026-03-03,2026-08-19,4
+85,AST_OHE_0085,SEC_012 Neutral Section Insulator,Neutral Section Insulator,OHE,12,SEC_012,51.5,2026-02-24,2026-08-08,3
+86,AST_OHE_0086,SEC_012 OHE Mast Grounding,OHE Mast Grounding,OHE,12,SEC_012,35.6,2026-04-16,2026-09-24,1
+87,AST_S&T_0087,SEC_012 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,12,SEC_012,50.8,2026-03-07,2026-09-24,2
+88,AST_S&T_0088,SEC_012 Electric Point Machine,Electric Point Machine,S&T,12,SEC_012,51.1,2026-01-10,2026-07-26,4
+89,AST_S&T_0089,SEC_012 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,12,SEC_012,77.5,2025-12-22,2026-08-04,4
+90,AST_ENG_0090,SEC_013 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,13,SEC_013,93.6,2026-06-30,2026-09-06,2
+91,AST_ENG_0091,SEC_013 Ballast Cushion,Ballast Cushion,ENG,13,SEC_013,28.2,2026-01-01,2026-07-31,4
+92,AST_ENG_0092,SEC_013 Turnout / Point Crossing,Turnout / Point Crossing,ENG,13,SEC_013,42.1,2026-07-03,2026-08-18,4
+93,AST_OHE_0093,SEC_013 25kV Catenary Wire,25kV Catenary Wire,OHE,13,SEC_013,54.1,2026-05-07,2026-09-23,3
+94,AST_OHE_0094,SEC_013 Neutral Section Insulator,Neutral Section Insulator,OHE,13,SEC_013,93.2,2026-01-09,2026-09-17,2
+95,AST_S&T_0095,SEC_013 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,13,SEC_013,90.1,2026-01-11,2026-09-15,3
+96,AST_S&T_0096,SEC_013 Electric Point Machine,Electric Point Machine,S&T,13,SEC_013,93.2,2026-04-26,2026-09-17,2
+97,AST_ENG_0097,SEC_014 Railway Bridge Girder,Railway Bridge Girder,ENG,14,SEC_014,60.5,2026-05-31,2026-09-12,5
+98,AST_ENG_0098,SEC_014 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,14,SEC_014,73.0,2026-06-20,2026-09-26,4
+99,AST_ENG_0099,SEC_014 Railway Bridge Girder,Railway Bridge Girder,ENG,14,SEC_014,76.8,2026-07-02,2026-08-21,4
+100,AST_OHE_0100,SEC_014 Contact Wire Segment,Contact Wire Segment,OHE,14,SEC_014,32.8,2025-12-18,2026-09-19,3
+101,AST_OHE_0101,SEC_014 Traction Substation Feeder,Traction Substation Feeder,OHE,14,SEC_014,66.1,2026-03-21,2026-09-22,4
+102,AST_S&T_0102,SEC_014 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,14,SEC_014,89.8,2026-07-08,2026-09-22,5
+103,AST_S&T_0103,SEC_014 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,14,SEC_014,76.1,2026-04-22,2026-09-04,4
+104,AST_S&T_0104,SEC_014 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,14,SEC_014,44.1,2026-07-04,2026-09-02,4
+105,AST_ENG_0105,SEC_015 Track Segment,Track Segment,ENG,15,SEC_015,69.5,2026-03-15,2026-09-18,2
+106,AST_ENG_0106,SEC_015 Track Segment,Track Segment,ENG,15,SEC_015,32.7,2026-01-05,2026-09-11,3
+107,AST_OHE_0107,SEC_015 Neutral Section Insulator,Neutral Section Insulator,OHE,15,SEC_015,28.6,2026-07-14,2026-08-11,4
+108,AST_OHE_0108,SEC_015 Contact Wire Segment,Contact Wire Segment,OHE,15,SEC_015,57.1,2026-05-18,2026-07-29,4
+109,AST_OHE_0109,SEC_015 Traction Substation Feeder,Traction Substation Feeder,OHE,15,SEC_015,92.4,2026-06-21,2026-08-01,3
+110,AST_S&T_0110,SEC_015 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,15,SEC_015,52.5,2026-05-25,2026-07-24,2
+111,AST_S&T_0111,SEC_015 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,15,SEC_015,69.0,2026-05-19,2026-09-10,4
+112,AST_S&T_0112,SEC_015 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,15,SEC_015,79.1,2026-02-19,2026-08-18,3
+113,AST_ENG_0113,SEC_016 Railway Bridge Girder,Railway Bridge Girder,ENG,16,SEC_016,31.0,2026-01-31,2026-09-04,3
+114,AST_ENG_0114,SEC_016 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,16,SEC_016,83.1,2026-05-20,2026-09-24,5
+115,AST_ENG_0115,SEC_016 Turnout / Point Crossing,Turnout / Point Crossing,ENG,16,SEC_016,68.5,2026-01-19,2026-08-18,3
+116,AST_OHE_0116,SEC_016 Neutral Section Insulator,Neutral Section Insulator,OHE,16,SEC_016,53.0,2026-05-17,2026-09-28,3
+117,AST_OHE_0117,SEC_016 Neutral Section Insulator,Neutral Section Insulator,OHE,16,SEC_016,37.1,2026-03-07,2026-09-01,3
+118,AST_S&T_0118,SEC_016 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,16,SEC_016,27.0,2026-03-28,2026-09-26,3
+119,AST_S&T_0119,SEC_016 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,16,SEC_016,80.1,2026-05-16,2026-07-28,4
+120,AST_S&T_0120,SEC_016 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,16,SEC_016,53.2,2026-03-20,2026-07-28,4
+121,AST_ENG_0121,SEC_017 Track Segment,Track Segment,ENG,17,SEC_017,45.5,2026-07-08,2026-08-26,3
+122,AST_ENG_0122,SEC_017 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,17,SEC_017,63.6,2026-04-01,2026-08-18,3
+123,AST_ENG_0123,SEC_017 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,17,SEC_017,34.0,2026-05-09,2026-08-28,4
+124,AST_OHE_0124,SEC_017 Neutral Section Insulator,Neutral Section Insulator,OHE,17,SEC_017,86.7,2026-06-05,2026-08-02,5
+125,AST_OHE_0125,SEC_017 Traction Substation Feeder,Traction Substation Feeder,OHE,17,SEC_017,88.8,2026-04-04,2026-09-14,3
+126,AST_OHE_0126,SEC_017 Contact Wire Segment,Contact Wire Segment,OHE,17,SEC_017,82.3,2026-02-27,2026-09-28,2
+127,AST_S&T_0127,SEC_017 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,17,SEC_017,47.2,2026-02-08,2026-08-18,4
+128,AST_S&T_0128,SEC_017 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,17,SEC_017,35.1,2026-03-17,2026-09-24,4
+129,AST_ENG_0129,SEC_018 Track Segment,Track Segment,ENG,18,SEC_018,57.3,2025-12-26,2026-08-17,4
+130,AST_ENG_0130,SEC_018 Ballast Cushion,Ballast Cushion,ENG,18,SEC_018,90.7,2026-04-23,2026-08-31,2
+131,AST_OHE_0131,SEC_018 OHE Mast Grounding,OHE Mast Grounding,OHE,18,SEC_018,77.6,2026-03-04,2026-09-05,4
+132,AST_OHE_0132,SEC_018 Traction Substation Feeder,Traction Substation Feeder,OHE,18,SEC_018,60.1,2026-05-29,2026-08-18,4
+133,AST_S&T_0133,SEC_018 Electric Point Machine,Electric Point Machine,S&T,18,SEC_018,25.2,2026-07-10,2026-09-01,3
+134,AST_S&T_0134,SEC_018 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,18,SEC_018,93.7,2026-01-28,2026-08-06,2
+135,AST_S&T_0135,SEC_018 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,18,SEC_018,52.5,2026-01-11,2026-09-21,4
+136,AST_ENG_0136,SEC_019 Turnout / Point Crossing,Turnout / Point Crossing,ENG,19,SEC_019,85.9,2026-01-10,2026-08-17,2
+137,AST_ENG_0137,SEC_019 Turnout / Point Crossing,Turnout / Point Crossing,ENG,19,SEC_019,47.6,2026-02-25,2026-08-29,4
+138,AST_OHE_0138,SEC_019 OHE Mast Grounding,OHE Mast Grounding,OHE,19,SEC_019,60.0,2026-04-02,2026-09-13,3
+139,AST_OHE_0139,SEC_019 Neutral Section Insulator,Neutral Section Insulator,OHE,19,SEC_019,84.6,2026-05-25,2026-09-17,1
+140,AST_OHE_0140,SEC_019 Traction Substation Feeder,Traction Substation Feeder,OHE,19,SEC_019,62.0,2026-01-21,2026-09-03,1
+141,AST_S&T_0141,SEC_019 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,19,SEC_019,90.4,2026-04-08,2026-08-14,4
+142,AST_S&T_0142,SEC_019 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,19,SEC_019,68.5,2026-05-24,2026-09-28,5
+143,AST_S&T_0143,SEC_019 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,19,SEC_019,96.6,2026-06-07,2026-07-21,3
+144,AST_ENG_0144,SEC_020 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,20,SEC_020,55.6,2025-12-31,2026-07-27,2
+145,AST_ENG_0145,SEC_020 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,20,SEC_020,69.9,2026-06-24,2026-08-20,5
+146,AST_OHE_0146,SEC_020 Cantilever Assembly,Cantilever Assembly,OHE,20,SEC_020,71.5,2026-06-06,2026-09-15,2
+147,AST_OHE_0147,SEC_020 25kV Catenary Wire,25kV Catenary Wire,OHE,20,SEC_020,69.6,2026-03-17,2026-08-22,3
+148,AST_S&T_0148,SEC_020 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,20,SEC_020,44.0,2026-06-06,2026-08-15,1
+149,AST_S&T_0149,SEC_020 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,20,SEC_020,71.9,2026-03-17,2026-07-24,3
+150,AST_S&T_0150,SEC_020 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,20,SEC_020,57.4,2026-02-24,2026-09-17,4
+151,AST_ENG_0151,SEC_021 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,21,SEC_021,41.1,2026-04-09,2026-08-14,4
+152,AST_ENG_0152,SEC_021 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,21,SEC_021,80.8,2026-03-09,2026-09-09,3
+153,AST_ENG_0153,SEC_021 Ballast Cushion,Ballast Cushion,ENG,21,SEC_021,51.3,2026-02-08,2026-09-01,4
+154,AST_OHE_0154,SEC_021 Contact Wire Segment,Contact Wire Segment,OHE,21,SEC_021,90.8,2026-01-23,2026-08-10,5
+155,AST_OHE_0155,SEC_021 Contact Wire Segment,Contact Wire Segment,OHE,21,SEC_021,81.0,2026-04-08,2026-08-05,4
+156,AST_OHE_0156,SEC_021 OHE Mast Grounding,OHE Mast Grounding,OHE,21,SEC_021,88.5,2026-07-06,2026-09-12,4
+157,AST_S&T_0157,SEC_021 Electric Point Machine,Electric Point Machine,S&T,21,SEC_021,27.2,2026-02-26,2026-09-24,3
+158,AST_S&T_0158,SEC_021 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,21,SEC_021,80.1,2026-07-04,2026-08-16,1
+159,AST_S&T_0159,SEC_021 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,21,SEC_021,65.4,2026-02-07,2026-08-11,4
+160,AST_ENG_0160,SEC_022 Turnout / Point Crossing,Turnout / Point Crossing,ENG,22,SEC_022,49.9,2026-05-11,2026-08-03,3
+161,AST_ENG_0161,SEC_022 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,22,SEC_022,62.5,2026-06-11,2026-08-10,2
+162,AST_ENG_0162,SEC_022 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,22,SEC_022,97.7,2026-01-12,2026-09-25,3
+163,AST_OHE_0163,SEC_022 Contact Wire Segment,Contact Wire Segment,OHE,22,SEC_022,40.4,2026-05-08,2026-08-15,4
+164,AST_OHE_0164,SEC_022 Cantilever Assembly,Cantilever Assembly,OHE,22,SEC_022,33.3,2026-01-16,2026-09-20,4
+165,AST_S&T_0165,SEC_022 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,22,SEC_022,56.7,2026-05-02,2026-08-03,2
+166,AST_S&T_0166,SEC_022 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,22,SEC_022,87.0,2026-03-15,2026-09-22,4
+167,AST_S&T_0167,SEC_022 Electric Point Machine,Electric Point Machine,S&T,22,SEC_022,52.0,2026-03-21,2026-07-22,2
+168,AST_ENG_0168,SEC_023 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,23,SEC_023,77.4,2026-07-15,2026-09-09,2
+169,AST_ENG_0169,SEC_023 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,23,SEC_023,63.8,2026-06-21,2026-08-25,3
+170,AST_OHE_0170,SEC_023 Contact Wire Segment,Contact Wire Segment,OHE,23,SEC_023,58.3,2026-03-26,2026-08-12,3
+171,AST_OHE_0171,SEC_023 Cantilever Assembly,Cantilever Assembly,OHE,23,SEC_023,75.8,2026-05-31,2026-08-11,3
+172,AST_S&T_0172,SEC_023 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,23,SEC_023,53.4,2026-07-12,2026-08-09,2
+173,AST_S&T_0173,SEC_023 Electric Point Machine,Electric Point Machine,S&T,23,SEC_023,40.4,2026-02-08,2026-09-03,4
+174,AST_S&T_0174,SEC_023 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,23,SEC_023,85.6,2026-04-15,2026-09-29,3
+175,AST_ENG_0175,SEC_024 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,24,SEC_024,69.7,2026-03-03,2026-09-27,4
+176,AST_ENG_0176,SEC_024 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,24,SEC_024,96.9,2026-01-14,2026-07-31,5
+177,AST_OHE_0177,SEC_024 Neutral Section Insulator,Neutral Section Insulator,OHE,24,SEC_024,82.8,2026-06-24,2026-08-10,1
+178,AST_OHE_0178,SEC_024 25kV Catenary Wire,25kV Catenary Wire,OHE,24,SEC_024,55.4,2026-06-11,2026-08-06,4
+179,AST_S&T_0179,SEC_024 Electric Point Machine,Electric Point Machine,S&T,24,SEC_024,68.8,2026-07-07,2026-08-22,1
+180,AST_S&T_0180,SEC_024 Electric Point Machine,Electric Point Machine,S&T,24,SEC_024,72.8,2026-03-18,2026-09-26,3
+181,AST_S&T_0181,SEC_024 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,24,SEC_024,73.8,2026-01-05,2026-09-22,5
+182,AST_ENG_0182,SEC_025 Turnout / Point Crossing,Turnout / Point Crossing,ENG,25,SEC_025,70.3,2026-06-05,2026-08-19,4
+183,AST_ENG_0183,SEC_025 Railway Bridge Girder,Railway Bridge Girder,ENG,25,SEC_025,47.2,2026-04-23,2026-08-07,2
+184,AST_OHE_0184,SEC_025 Contact Wire Segment,Contact Wire Segment,OHE,25,SEC_025,66.0,2026-06-06,2026-09-03,3
+185,AST_OHE_0185,SEC_025 25kV Catenary Wire,25kV Catenary Wire,OHE,25,SEC_025,30.7,2026-06-12,2026-08-14,2
+186,AST_S&T_0186,SEC_025 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,25,SEC_025,55.5,2026-04-02,2026-09-03,3
+187,AST_S&T_0187,SEC_025 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,25,SEC_025,61.5,2026-04-18,2026-09-22,4
+188,AST_S&T_0188,SEC_025 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,25,SEC_025,38.0,2026-04-18,2026-09-03,3
+189,AST_ENG_0189,SEC_026 Railway Bridge Girder,Railway Bridge Girder,ENG,26,SEC_026,28.4,2025-12-24,2026-09-25,2
+190,AST_ENG_0190,SEC_026 Ballast Cushion,Ballast Cushion,ENG,26,SEC_026,49.8,2026-03-08,2026-09-17,3
+191,AST_OHE_0191,SEC_026 Contact Wire Segment,Contact Wire Segment,OHE,26,SEC_026,64.4,2026-01-05,2026-09-21,3
+192,AST_OHE_0192,SEC_026 Traction Substation Feeder,Traction Substation Feeder,OHE,26,SEC_026,66.5,2026-04-21,2026-09-14,2
+193,AST_OHE_0193,SEC_026 Neutral Section Insulator,Neutral Section Insulator,OHE,26,SEC_026,72.0,2026-05-18,2026-09-09,3
+194,AST_S&T_0194,SEC_026 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,26,SEC_026,52.9,2026-01-18,2026-09-24,5
+195,AST_S&T_0195,SEC_026 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,26,SEC_026,46.4,2026-02-18,2026-09-08,3
+196,AST_S&T_0196,SEC_026 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,26,SEC_026,63.9,2026-04-29,2026-08-25,5
+197,AST_ENG_0197,SEC_027 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,27,SEC_027,72.6,2026-03-07,2026-08-12,2
+198,AST_ENG_0198,SEC_027 Railway Bridge Girder,Railway Bridge Girder,ENG,27,SEC_027,80.8,2026-03-05,2026-08-25,3
+199,AST_ENG_0199,SEC_027 Ballast Cushion,Ballast Cushion,ENG,27,SEC_027,72.6,2026-07-08,2026-08-18,5
+200,AST_OHE_0200,SEC_027 Traction Substation Feeder,Traction Substation Feeder,OHE,27,SEC_027,83.1,2026-06-29,2026-09-25,5
+201,AST_OHE_0201,SEC_027 25kV Catenary Wire,25kV Catenary Wire,OHE,27,SEC_027,29.5,2026-03-12,2026-09-26,3
+202,AST_OHE_0202,SEC_027 25kV Catenary Wire,25kV Catenary Wire,OHE,27,SEC_027,47.7,2026-05-16,2026-09-29,4
+203,AST_S&T_0203,SEC_027 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,27,SEC_027,26.3,2026-04-03,2026-08-31,4
+204,AST_S&T_0204,SEC_027 Electric Point Machine,Electric Point Machine,S&T,27,SEC_027,65.0,2026-05-28,2026-08-14,3
+205,AST_ENG_0205,SEC_028 Railway Bridge Girder,Railway Bridge Girder,ENG,28,SEC_028,29.0,2026-02-14,2026-09-03,4
+206,AST_ENG_0206,SEC_028 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,28,SEC_028,79.3,2026-05-23,2026-08-28,1
+207,AST_OHE_0207,SEC_028 OHE Mast Grounding,OHE Mast Grounding,OHE,28,SEC_028,77.7,2026-03-14,2026-08-28,4
+208,AST_OHE_0208,SEC_028 Contact Wire Segment,Contact Wire Segment,OHE,28,SEC_028,64.8,2026-04-10,2026-07-26,3
+209,AST_OHE_0209,SEC_028 Neutral Section Insulator,Neutral Section Insulator,OHE,28,SEC_028,72.4,2026-04-09,2026-07-26,4
+210,AST_S&T_0210,SEC_028 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,28,SEC_028,72.5,2026-04-29,2026-09-28,4
+211,AST_S&T_0211,SEC_028 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,28,SEC_028,96.3,2025-12-24,2026-09-01,5
+212,AST_S&T_0212,SEC_028 Electric Point Machine,Electric Point Machine,S&T,28,SEC_028,67.8,2026-01-06,2026-07-27,4
+213,AST_ENG_0213,SEC_029 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,29,SEC_029,45.9,2026-06-05,2026-08-06,3
+214,AST_ENG_0214,SEC_029 Ballast Cushion,Ballast Cushion,ENG,29,SEC_029,28.4,2026-01-10,2026-08-11,3
+215,AST_OHE_0215,SEC_029 OHE Mast Grounding,OHE Mast Grounding,OHE,29,SEC_029,86.6,2026-06-26,2026-09-09,3
+216,AST_OHE_0216,SEC_029 Neutral Section Insulator,Neutral Section Insulator,OHE,29,SEC_029,84.8,2026-01-03,2026-08-14,2
+217,AST_OHE_0217,SEC_029 OHE Mast Grounding,OHE Mast Grounding,OHE,29,SEC_029,40.8,2026-06-12,2026-07-23,4
+218,AST_S&T_0218,SEC_029 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,29,SEC_029,74.8,2026-04-09,2026-08-06,5
+219,AST_S&T_0219,SEC_029 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,29,SEC_029,79.1,2026-05-15,2026-08-30,1
+220,AST_S&T_0220,SEC_029 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,29,SEC_029,65.2,2026-06-22,2026-08-19,4
+221,AST_ENG_0221,SEC_030 Railway Bridge Girder,Railway Bridge Girder,ENG,30,SEC_030,65.3,2026-04-20,2026-09-24,2
+222,AST_ENG_0222,SEC_030 Track Segment,Track Segment,ENG,30,SEC_030,37.3,2026-07-07,2026-08-24,4
+223,AST_ENG_0223,SEC_030 Railway Bridge Girder,Railway Bridge Girder,ENG,30,SEC_030,43.5,2026-06-08,2026-08-06,4
+224,AST_OHE_0224,SEC_030 Traction Substation Feeder,Traction Substation Feeder,OHE,30,SEC_030,91.1,2026-02-21,2026-08-11,5
+225,AST_OHE_0225,SEC_030 Traction Substation Feeder,Traction Substation Feeder,OHE,30,SEC_030,74.6,2026-07-11,2026-09-07,4
+226,AST_OHE_0226,SEC_030 OHE Mast Grounding,OHE Mast Grounding,OHE,30,SEC_030,25.1,2026-05-07,2026-09-10,4
+227,AST_S&T_0227,SEC_030 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,30,SEC_030,75.4,2026-06-24,2026-08-07,2
+228,AST_S&T_0228,SEC_030 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,30,SEC_030,82.0,2026-01-07,2026-08-24,3
+229,AST_ENG_0229,SEC_031 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,31,SEC_031,76.3,2025-12-27,2026-08-17,5
+230,AST_ENG_0230,SEC_031 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,31,SEC_031,80.7,2026-06-18,2026-09-13,4
+231,AST_OHE_0231,SEC_031 Contact Wire Segment,Contact Wire Segment,OHE,31,SEC_031,73.3,2026-06-01,2026-08-04,5
+232,AST_OHE_0232,SEC_031 Contact Wire Segment,Contact Wire Segment,OHE,31,SEC_031,38.0,2026-02-20,2026-08-14,3
+233,AST_OHE_0233,SEC_031 Cantilever Assembly,Cantilever Assembly,OHE,31,SEC_031,71.5,2026-06-16,2026-08-25,4
+234,AST_S&T_0234,SEC_031 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,31,SEC_031,62.9,2026-03-14,2026-09-09,3
+235,AST_S&T_0235,SEC_031 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,31,SEC_031,36.2,2026-02-03,2026-08-29,3
+236,AST_ENG_0236,SEC_032 Ballast Cushion,Ballast Cushion,ENG,32,SEC_032,70.1,2026-02-13,2026-09-27,3
+237,AST_ENG_0237,SEC_032 Ballast Cushion,Ballast Cushion,ENG,32,SEC_032,67.7,2026-07-14,2026-08-26,3
+238,AST_OHE_0238,SEC_032 Contact Wire Segment,Contact Wire Segment,OHE,32,SEC_032,32.0,2026-06-10,2026-08-10,3
+239,AST_OHE_0239,SEC_032 Cantilever Assembly,Cantilever Assembly,OHE,32,SEC_032,29.4,2026-06-02,2026-08-05,5
+240,AST_S&T_0240,SEC_032 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,32,SEC_032,87.3,2026-07-09,2026-07-28,3
+241,AST_S&T_0241,SEC_032 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,32,SEC_032,95.3,2026-06-07,2026-09-01,3
+242,AST_S&T_0242,SEC_032 Electric Point Machine,Electric Point Machine,S&T,32,SEC_032,76.2,2026-05-06,2026-09-05,2
+243,AST_ENG_0243,SEC_033 Railway Bridge Girder,Railway Bridge Girder,ENG,33,SEC_033,40.9,2026-04-19,2026-07-22,2
+244,AST_ENG_0244,SEC_033 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,33,SEC_033,73.7,2026-06-23,2026-08-01,5
+245,AST_OHE_0245,SEC_033 25kV Catenary Wire,25kV Catenary Wire,OHE,33,SEC_033,90.5,2026-01-19,2026-08-18,3
+246,AST_OHE_0246,SEC_033 Traction Substation Feeder,Traction Substation Feeder,OHE,33,SEC_033,38.2,2026-04-25,2026-07-23,2
+247,AST_OHE_0247,SEC_033 Cantilever Assembly,Cantilever Assembly,OHE,33,SEC_033,38.3,2026-02-26,2026-09-06,2
+248,AST_S&T_0248,SEC_033 Electric Point Machine,Electric Point Machine,S&T,33,SEC_033,74.5,2026-05-20,2026-08-05,3
+249,AST_S&T_0249,SEC_033 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,33,SEC_033,74.0,2026-04-17,2026-08-12,4
+250,AST_S&T_0250,SEC_033 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,33,SEC_033,27.9,2026-05-15,2026-08-15,2
+251,AST_ENG_0251,SEC_034 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,34,SEC_034,64.7,2026-04-21,2026-09-17,3
+252,AST_ENG_0252,SEC_034 Track Segment,Track Segment,ENG,34,SEC_034,52.1,2026-05-09,2026-09-14,3
+253,AST_OHE_0253,SEC_034 Cantilever Assembly,Cantilever Assembly,OHE,34,SEC_034,58.7,2026-07-12,2026-09-01,5
+254,AST_OHE_0254,SEC_034 OHE Mast Grounding,OHE Mast Grounding,OHE,34,SEC_034,59.1,2025-12-18,2026-08-16,2
+255,AST_OHE_0255,SEC_034 Neutral Section Insulator,Neutral Section Insulator,OHE,34,SEC_034,57.3,2026-01-08,2026-08-15,3
+256,AST_S&T_0256,SEC_034 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,34,SEC_034,68.3,2026-03-18,2026-08-19,3
+257,AST_S&T_0257,SEC_034 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,34,SEC_034,96.3,2026-03-05,2026-08-20,3
+258,AST_S&T_0258,SEC_034 Electric Point Machine,Electric Point Machine,S&T,34,SEC_034,34.4,2026-06-11,2026-08-27,5
+259,AST_ENG_0259,SEC_035 Railway Bridge Girder,Railway Bridge Girder,ENG,35,SEC_035,33.2,2026-07-08,2026-07-23,3
+260,AST_ENG_0260,SEC_035 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,35,SEC_035,73.0,2026-04-12,2026-07-30,3
+261,AST_ENG_0261,SEC_035 Turnout / Point Crossing,Turnout / Point Crossing,ENG,35,SEC_035,31.8,2025-12-23,2026-08-03,3
+262,AST_OHE_0262,SEC_035 Contact Wire Segment,Contact Wire Segment,OHE,35,SEC_035,29.7,2026-03-15,2026-07-21,4
+263,AST_OHE_0263,SEC_035 OHE Mast Grounding,OHE Mast Grounding,OHE,35,SEC_035,80.2,2026-02-12,2026-08-24,3
+264,AST_OHE_0264,SEC_035 25kV Catenary Wire,25kV Catenary Wire,OHE,35,SEC_035,74.6,2026-01-04,2026-09-16,3
+265,AST_S&T_0265,SEC_035 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,35,SEC_035,38.6,2026-02-06,2026-08-16,4
+266,AST_S&T_0266,SEC_035 Electric Point Machine,Electric Point Machine,S&T,35,SEC_035,52.9,2026-05-01,2026-08-21,3
+267,AST_S&T_0267,SEC_035 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,35,SEC_035,51.2,2026-03-02,2026-09-02,1
+268,AST_ENG_0268,SEC_036 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,36,SEC_036,82.7,2026-03-23,2026-07-28,3
+269,AST_ENG_0269,SEC_036 Turnout / Point Crossing,Turnout / Point Crossing,ENG,36,SEC_036,61.1,2026-04-23,2026-08-12,4
+270,AST_ENG_0270,SEC_036 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,36,SEC_036,31.4,2026-07-12,2026-08-17,3
+271,AST_OHE_0271,SEC_036 Neutral Section Insulator,Neutral Section Insulator,OHE,36,SEC_036,48.7,2025-12-31,2026-09-17,4
+272,AST_OHE_0272,SEC_036 Contact Wire Segment,Contact Wire Segment,OHE,36,SEC_036,46.4,2026-03-14,2026-07-30,3
+273,AST_OHE_0273,SEC_036 Neutral Section Insulator,Neutral Section Insulator,OHE,36,SEC_036,26.6,2025-12-27,2026-07-26,3
+274,AST_S&T_0274,SEC_036 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,36,SEC_036,59.9,2026-05-15,2026-08-13,3
+275,AST_S&T_0275,SEC_036 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,36,SEC_036,40.7,2026-03-24,2026-09-14,4
+276,AST_S&T_0276,SEC_036 Electric Point Machine,Electric Point Machine,S&T,36,SEC_036,44.9,2026-01-01,2026-07-30,3
+277,AST_ENG_0277,SEC_037 Track Segment,Track Segment,ENG,37,SEC_037,70.0,2026-04-28,2026-09-24,2
+278,AST_ENG_0278,SEC_037 Railway Bridge Girder,Railway Bridge Girder,ENG,37,SEC_037,45.2,2026-03-26,2026-09-24,4
+279,AST_OHE_0279,SEC_037 Contact Wire Segment,Contact Wire Segment,OHE,37,SEC_037,32.2,2026-04-23,2026-08-19,4
+280,AST_OHE_0280,SEC_037 Neutral Section Insulator,Neutral Section Insulator,OHE,37,SEC_037,67.9,2026-04-01,2026-08-13,4
+281,AST_S&T_0281,SEC_037 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,37,SEC_037,38.7,2026-02-03,2026-07-23,3
+282,AST_S&T_0282,SEC_037 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,37,SEC_037,29.6,2026-07-02,2026-09-06,4
+283,AST_S&T_0283,SEC_037 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,37,SEC_037,73.3,2026-01-18,2026-09-11,3
+284,AST_ENG_0284,SEC_038 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,38,SEC_038,36.2,2026-01-30,2026-08-31,4
+285,AST_ENG_0285,SEC_038 Ballast Cushion,Ballast Cushion,ENG,38,SEC_038,84.4,2026-03-28,2026-09-19,4
+286,AST_OHE_0286,SEC_038 Contact Wire Segment,Contact Wire Segment,OHE,38,SEC_038,77.7,2026-01-26,2026-08-02,3
+287,AST_OHE_0287,SEC_038 Cantilever Assembly,Cantilever Assembly,OHE,38,SEC_038,56.9,2026-01-15,2026-09-17,2
+288,AST_OHE_0288,SEC_038 Contact Wire Segment,Contact Wire Segment,OHE,38,SEC_038,35.3,2026-01-19,2026-08-23,5
+289,AST_S&T_0289,SEC_038 Electric Point Machine,Electric Point Machine,S&T,38,SEC_038,56.6,2026-06-08,2026-08-20,2
+290,AST_S&T_0290,SEC_038 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,38,SEC_038,79.3,2026-03-25,2026-08-21,4
+291,AST_S&T_0291,SEC_038 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,38,SEC_038,94.2,2026-04-10,2026-07-22,2
+292,AST_ENG_0292,SEC_039 Railway Bridge Girder,Railway Bridge Girder,ENG,39,SEC_039,55.8,2026-02-02,2026-07-21,3
+293,AST_ENG_0293,SEC_039 Ballast Cushion,Ballast Cushion,ENG,39,SEC_039,77.1,2026-06-09,2026-09-03,1
+294,AST_ENG_0294,SEC_039 Ballast Cushion,Ballast Cushion,ENG,39,SEC_039,44.1,2026-01-26,2026-09-14,4
+295,AST_OHE_0295,SEC_039 Contact Wire Segment,Contact Wire Segment,OHE,39,SEC_039,39.8,2026-04-04,2026-09-05,3
+296,AST_OHE_0296,SEC_039 OHE Mast Grounding,OHE Mast Grounding,OHE,39,SEC_039,25.7,2026-03-03,2026-08-13,3
+297,AST_OHE_0297,SEC_039 Traction Substation Feeder,Traction Substation Feeder,OHE,39,SEC_039,71.5,2026-07-14,2026-09-03,2
+298,AST_S&T_0298,SEC_039 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,39,SEC_039,27.8,2026-03-01,2026-07-29,3
+299,AST_S&T_0299,SEC_039 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,39,SEC_039,25.7,2026-04-19,2026-09-03,5
+300,AST_ENG_0300,SEC_040 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,40,SEC_040,78.0,2026-06-03,2026-07-21,2
+301,AST_ENG_0301,SEC_040 Railway Bridge Girder,Railway Bridge Girder,ENG,40,SEC_040,60.8,2026-01-22,2026-08-02,3
+302,AST_OHE_0302,SEC_040 OHE Mast Grounding,OHE Mast Grounding,OHE,40,SEC_040,78.6,2026-05-03,2026-08-15,4
+303,AST_OHE_0303,SEC_040 Cantilever Assembly,Cantilever Assembly,OHE,40,SEC_040,83.9,2026-01-01,2026-07-26,1
+304,AST_OHE_0304,SEC_040 Contact Wire Segment,Contact Wire Segment,OHE,40,SEC_040,74.1,2026-05-30,2026-07-23,3
+305,AST_S&T_0305,SEC_040 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,40,SEC_040,80.0,2026-03-23,2026-07-23,4
+306,AST_S&T_0306,SEC_040 Electric Point Machine,Electric Point Machine,S&T,40,SEC_040,70.1,2026-02-28,2026-09-09,4
+307,AST_ENG_0307,SEC_041 Ballast Cushion,Ballast Cushion,ENG,41,SEC_041,48.9,2026-01-13,2026-08-21,4
+308,AST_ENG_0308,SEC_041 Turnout / Point Crossing,Turnout / Point Crossing,ENG,41,SEC_041,27.7,2026-04-18,2026-08-23,3
+309,AST_OHE_0309,SEC_041 Neutral Section Insulator,Neutral Section Insulator,OHE,41,SEC_041,87.7,2026-01-27,2026-08-20,4
+310,AST_OHE_0310,SEC_041 Neutral Section Insulator,Neutral Section Insulator,OHE,41,SEC_041,52.4,2026-05-23,2026-08-20,3
+311,AST_OHE_0311,SEC_041 OHE Mast Grounding,OHE Mast Grounding,OHE,41,SEC_041,58.4,2026-01-01,2026-09-10,2
+312,AST_S&T_0312,SEC_041 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,41,SEC_041,62.1,2026-04-10,2026-09-12,3
+313,AST_S&T_0313,SEC_041 Electric Point Machine,Electric Point Machine,S&T,41,SEC_041,93.8,2026-04-07,2026-07-28,3
+314,AST_ENG_0314,SEC_042 Turnout / Point Crossing,Turnout / Point Crossing,ENG,42,SEC_042,31.8,2026-05-11,2026-08-24,3
+315,AST_ENG_0315,SEC_042 Ballast Cushion,Ballast Cushion,ENG,42,SEC_042,25.3,2026-01-02,2026-09-11,3
+316,AST_OHE_0316,SEC_042 Contact Wire Segment,Contact Wire Segment,OHE,42,SEC_042,84.0,2026-05-23,2026-09-17,5
+317,AST_OHE_0317,SEC_042 25kV Catenary Wire,25kV Catenary Wire,OHE,42,SEC_042,59.8,2026-01-03,2026-08-27,3
+318,AST_OHE_0318,SEC_042 Neutral Section Insulator,Neutral Section Insulator,OHE,42,SEC_042,57.1,2026-07-03,2026-08-15,2
+319,AST_S&T_0319,SEC_042 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,42,SEC_042,63.0,2026-01-03,2026-08-18,3
+320,AST_S&T_0320,SEC_042 Electric Point Machine,Electric Point Machine,S&T,42,SEC_042,57.6,2026-01-15,2026-07-28,2
+321,AST_S&T_0321,SEC_042 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,42,SEC_042,41.7,2026-03-28,2026-09-25,3
+322,AST_ENG_0322,SEC_043 Track Segment,Track Segment,ENG,43,SEC_043,31.2,2026-07-13,2026-07-27,1
+323,AST_ENG_0323,SEC_043 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,43,SEC_043,52.0,2026-03-23,2026-08-12,3
+324,AST_OHE_0324,SEC_043 Traction Substation Feeder,Traction Substation Feeder,OHE,43,SEC_043,69.5,2026-02-19,2026-09-17,3
+325,AST_OHE_0325,SEC_043 Neutral Section Insulator,Neutral Section Insulator,OHE,43,SEC_043,56.4,2026-07-16,2026-09-18,3
+326,AST_S&T_0326,SEC_043 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,43,SEC_043,95.8,2025-12-22,2026-08-10,3
+327,AST_S&T_0327,SEC_043 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,43,SEC_043,61.0,2026-02-10,2026-09-08,2
+328,AST_S&T_0328,SEC_043 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,43,SEC_043,59.7,2026-01-09,2026-09-09,3
+329,AST_ENG_0329,SEC_044 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,44,SEC_044,36.8,2026-06-21,2026-09-17,3
+330,AST_ENG_0330,SEC_044 Track Segment,Track Segment,ENG,44,SEC_044,29.1,2026-04-29,2026-09-02,3
+331,AST_ENG_0331,SEC_044 Turnout / Point Crossing,Turnout / Point Crossing,ENG,44,SEC_044,50.8,2026-05-28,2026-08-30,2
+332,AST_OHE_0332,SEC_044 Traction Substation Feeder,Traction Substation Feeder,OHE,44,SEC_044,97.9,2026-02-11,2026-08-01,2
+333,AST_OHE_0333,SEC_044 Contact Wire Segment,Contact Wire Segment,OHE,44,SEC_044,44.5,2026-02-10,2026-09-17,2
+334,AST_S&T_0334,SEC_044 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,44,SEC_044,36.4,2026-06-16,2026-08-14,4
+335,AST_S&T_0335,SEC_044 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,44,SEC_044,92.5,2026-02-18,2026-08-12,3
+336,AST_ENG_0336,SEC_045 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,45,SEC_045,29.1,2026-04-11,2026-08-22,5
+337,AST_ENG_0337,SEC_045 Railway Bridge Girder,Railway Bridge Girder,ENG,45,SEC_045,36.6,2025-12-23,2026-08-08,2
+338,AST_ENG_0338,SEC_045 Ballast Cushion,Ballast Cushion,ENG,45,SEC_045,28.6,2026-05-09,2026-08-09,3
+339,AST_OHE_0339,SEC_045 Neutral Section Insulator,Neutral Section Insulator,OHE,45,SEC_045,75.3,2026-04-25,2026-09-24,1
+340,AST_OHE_0340,SEC_045 Neutral Section Insulator,Neutral Section Insulator,OHE,45,SEC_045,79.0,2026-02-12,2026-09-12,2
+341,AST_OHE_0341,SEC_045 25kV Catenary Wire,25kV Catenary Wire,OHE,45,SEC_045,37.5,2026-04-21,2026-08-18,4
+342,AST_S&T_0342,SEC_045 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,45,SEC_045,25.5,2026-07-03,2026-09-13,3
+343,AST_S&T_0343,SEC_045 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,45,SEC_045,93.5,2026-02-01,2026-09-02,2
+344,AST_ENG_0344,SEC_046 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,46,SEC_046,59.4,2026-05-24,2026-08-24,2
+345,AST_ENG_0345,SEC_046 Ballast Cushion,Ballast Cushion,ENG,46,SEC_046,45.4,2026-04-11,2026-07-23,4
+346,AST_OHE_0346,SEC_046 Neutral Section Insulator,Neutral Section Insulator,OHE,46,SEC_046,77.8,2025-12-27,2026-08-16,3
+347,AST_OHE_0347,SEC_046 Contact Wire Segment,Contact Wire Segment,OHE,46,SEC_046,51.9,2025-12-26,2026-09-24,4
+348,AST_OHE_0348,SEC_046 Cantilever Assembly,Cantilever Assembly,OHE,46,SEC_046,76.0,2025-12-24,2026-09-24,3
+349,AST_S&T_0349,SEC_046 Electric Point Machine,Electric Point Machine,S&T,46,SEC_046,37.8,2026-03-16,2026-08-14,5
+350,AST_S&T_0350,SEC_046 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,46,SEC_046,78.2,2026-07-01,2026-08-17,1
+351,AST_S&T_0351,SEC_046 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,46,SEC_046,89.6,2025-12-24,2026-09-21,4
+352,AST_ENG_0352,SEC_047 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,47,SEC_047,42.1,2025-12-22,2026-08-29,3
+353,AST_ENG_0353,SEC_047 Ballast Cushion,Ballast Cushion,ENG,47,SEC_047,70.0,2026-06-09,2026-08-11,3
+354,AST_OHE_0354,SEC_047 Contact Wire Segment,Contact Wire Segment,OHE,47,SEC_047,70.6,2026-07-09,2026-08-31,4
+355,AST_OHE_0355,SEC_047 25kV Catenary Wire,25kV Catenary Wire,OHE,47,SEC_047,28.1,2026-01-25,2026-09-19,3
+356,AST_S&T_0356,SEC_047 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,47,SEC_047,68.4,2026-04-04,2026-09-18,3
+357,AST_S&T_0357,SEC_047 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,47,SEC_047,54.0,2026-07-01,2026-09-15,3
+358,AST_ENG_0358,SEC_048 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,48,SEC_048,32.2,2026-07-14,2026-08-17,4
+359,AST_ENG_0359,SEC_048 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,48,SEC_048,61.8,2026-04-26,2026-08-21,4
+360,AST_ENG_0360,SEC_048 Railway Bridge Girder,Railway Bridge Girder,ENG,48,SEC_048,27.8,2026-04-22,2026-08-24,4
+361,AST_OHE_0361,SEC_048 Contact Wire Segment,Contact Wire Segment,OHE,48,SEC_048,35.8,2026-04-14,2026-09-12,4
+362,AST_OHE_0362,SEC_048 Traction Substation Feeder,Traction Substation Feeder,OHE,48,SEC_048,93.5,2026-05-15,2026-09-12,3
+363,AST_OHE_0363,SEC_048 Traction Substation Feeder,Traction Substation Feeder,OHE,48,SEC_048,35.9,2026-06-20,2026-07-26,5
+364,AST_S&T_0364,SEC_048 Digital Axle Counter (DAC),Digital Axle Counter (DAC),S&T,48,SEC_048,55.3,2026-02-01,2026-09-16,5
+365,AST_S&T_0365,SEC_048 Electric Point Machine,Electric Point Machine,S&T,48,SEC_048,35.6,2026-03-27,2026-09-14,5
+366,AST_ENG_0366,SEC_049 Ballast Cushion,Ballast Cushion,ENG,49,SEC_049,62.6,2026-02-20,2026-09-25,5
+367,AST_ENG_0367,SEC_049 Ballast Cushion,Ballast Cushion,ENG,49,SEC_049,45.1,2026-01-08,2026-07-27,4
+368,AST_ENG_0368,SEC_049 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,49,SEC_049,37.2,2026-01-24,2026-09-14,2
+369,AST_OHE_0369,SEC_049 Neutral Section Insulator,Neutral Section Insulator,OHE,49,SEC_049,42.5,2026-02-01,2026-09-27,4
+370,AST_OHE_0370,SEC_049 Contact Wire Segment,Contact Wire Segment,OHE,49,SEC_049,35.1,2026-01-08,2026-08-10,4
+371,AST_OHE_0371,SEC_049 Traction Substation Feeder,Traction Substation Feeder,OHE,49,SEC_049,54.3,2026-05-27,2026-09-29,3
+372,AST_S&T_0372,SEC_049 Electric Point Machine,Electric Point Machine,S&T,49,SEC_049,80.9,2026-05-16,2026-08-28,3
+373,AST_S&T_0373,SEC_049 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,49,SEC_049,64.4,2026-01-07,2026-09-18,5
+374,AST_ENG_0374,SEC_050 Railway Bridge Girder,Railway Bridge Girder,ENG,50,SEC_050,85.0,2026-02-13,2026-08-06,5
+375,AST_ENG_0375,SEC_050 Track Segment,Track Segment,ENG,50,SEC_050,38.0,2026-06-30,2026-08-04,5
+376,AST_OHE_0376,SEC_050 Contact Wire Segment,Contact Wire Segment,OHE,50,SEC_050,89.5,2026-01-18,2026-09-10,3
+377,AST_OHE_0377,SEC_050 Contact Wire Segment,Contact Wire Segment,OHE,50,SEC_050,54.1,2026-01-31,2026-09-10,4
+378,AST_OHE_0378,SEC_050 25kV Catenary Wire,25kV Catenary Wire,OHE,50,SEC_050,64.0,2026-05-27,2026-08-07,5
+379,AST_S&T_0379,SEC_050 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,50,SEC_050,42.4,2026-01-30,2026-07-23,3
+380,AST_S&T_0380,SEC_050 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,50,SEC_050,86.8,2026-07-12,2026-09-20,3
+381,AST_S&T_0381,SEC_050 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,50,SEC_050,48.2,2026-03-27,2026-09-20,3
+382,AST_ENG_0382,SEC_051 Railway Bridge Girder,Railway Bridge Girder,ENG,51,SEC_051,76.6,2026-01-27,2026-07-26,3
+383,AST_ENG_0383,SEC_051 Railway Bridge Girder,Railway Bridge Girder,ENG,51,SEC_051,32.6,2026-05-11,2026-09-20,3
+384,AST_OHE_0384,SEC_051 Cantilever Assembly,Cantilever Assembly,OHE,51,SEC_051,25.3,2026-03-11,2026-09-08,2
+385,AST_OHE_0385,SEC_051 Cantilever Assembly,Cantilever Assembly,OHE,51,SEC_051,76.6,2026-02-01,2026-08-10,5
+386,AST_S&T_0386,SEC_051 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,51,SEC_051,68.6,2026-04-05,2026-08-29,4
+387,AST_S&T_0387,SEC_051 Electric Point Machine,Electric Point Machine,S&T,51,SEC_051,88.6,2026-07-14,2026-08-12,4
+388,AST_ENG_0388,SEC_052 Ballast Cushion,Ballast Cushion,ENG,52,SEC_052,72.4,2026-06-23,2026-09-25,3
+389,AST_ENG_0389,SEC_052 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,52,SEC_052,42.6,2026-07-10,2026-07-29,5
+390,AST_OHE_0390,SEC_052 Contact Wire Segment,Contact Wire Segment,OHE,52,SEC_052,37.3,2025-12-27,2026-09-08,2
+391,AST_OHE_0391,SEC_052 OHE Mast Grounding,OHE Mast Grounding,OHE,52,SEC_052,93.4,2026-01-16,2026-08-20,2
+392,AST_S&T_0392,SEC_052 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,52,SEC_052,90.0,2026-01-03,2026-09-07,4
+393,AST_S&T_0393,SEC_052 Electronic Interlocking (EI) Unit,Electronic Interlocking (EI) Unit,S&T,52,SEC_052,49.4,2026-01-03,2026-07-30,4
+394,AST_ENG_0394,SEC_053 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,53,SEC_053,38.2,2026-02-22,2026-07-21,3
+395,AST_ENG_0395,SEC_053 Railway Bridge Girder,Railway Bridge Girder,ENG,53,SEC_053,71.7,2026-02-04,2026-08-03,2
+396,AST_ENG_0396,SEC_053 Railway Bridge Girder,Railway Bridge Girder,ENG,53,SEC_053,71.3,2026-05-15,2026-09-21,4
+397,AST_OHE_0397,SEC_053 Contact Wire Segment,Contact Wire Segment,OHE,53,SEC_053,53.0,2026-03-10,2026-08-01,4
+398,AST_OHE_0398,SEC_053 Neutral Section Insulator,Neutral Section Insulator,OHE,53,SEC_053,82.1,2026-03-16,2026-09-14,3
+399,AST_S&T_0399,SEC_053 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,53,SEC_053,35.1,2026-01-12,2026-08-05,4
+400,AST_S&T_0400,SEC_053 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,53,SEC_053,39.6,2025-12-27,2026-09-18,5
+401,AST_S&T_0401,SEC_053 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,53,SEC_053,88.1,2026-05-26,2026-07-24,4
+402,AST_ENG_0402,SEC_054 Railway Bridge Girder,Railway Bridge Girder,ENG,54,SEC_054,94.2,2026-06-04,2026-09-21,1
+403,AST_ENG_0403,SEC_054 Track Segment,Track Segment,ENG,54,SEC_054,93.2,2026-02-23,2026-09-06,4
+404,AST_ENG_0404,SEC_054 Sleeper Bed & Fastenings,Sleeper Bed & Fastenings,ENG,54,SEC_054,27.9,2026-04-17,2026-07-28,2
+405,AST_OHE_0405,SEC_054 Traction Substation Feeder,Traction Substation Feeder,OHE,54,SEC_054,62.3,2026-05-19,2026-08-06,3
+406,AST_OHE_0406,SEC_054 25kV Catenary Wire,25kV Catenary Wire,OHE,54,SEC_054,68.5,2026-04-01,2026-07-21,3
+407,AST_S&T_0407,SEC_054 Integrated Power Supply (IPS),Integrated Power Supply (IPS),S&T,54,SEC_054,68.0,2025-12-18,2026-09-20,3
+408,AST_S&T_0408,SEC_054 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,54,SEC_054,45.5,2026-04-04,2026-08-19,4
+409,AST_S&T_0409,SEC_054 High-Voltage Track Circuit,High-Voltage Track Circuit,S&T,54,SEC_054,87.2,2025-12-25,2026-08-05,5
+410,AST_ENG_0410,SEC_055 Turnout / Point Crossing,Turnout / Point Crossing,ENG,55,SEC_055,53.3,2026-01-23,2026-08-20,5
+411,AST_ENG_0411,SEC_055 Expansion Joint (SEJ),Expansion Joint (SEJ),ENG,55,SEC_055,64.8,2026-04-18,2026-08-07,3
+412,AST_OHE_0412,SEC_055 Neutral Section Insulator,Neutral Section Insulator,OHE,55,SEC_055,93.4,2025-12-31,2026-09-03,4
+413,AST_OHE_0413,SEC_055 25kV Catenary Wire,25kV Catenary Wire,OHE,55,SEC_055,43.2,2026-04-21,2026-09-07,4
+414,AST_S&T_0414,SEC_055 LED Signal Aspect Unit,LED Signal Aspect Unit,S&T,55,SEC_055,55.4,2026-01-26,2026-09-21,4
+415,AST_S&T_0415,SEC_055 Electric Point Machine,Electric Point Machine,S&T,55,SEC_055,63.1,2026-03-14,2026-08-06,3
+416,AST_S&T_0416,SEC_055 Electric Point Machine,Electric Point Machine,S&T,55,SEC_055,53.1,2026-01-07,2026-09-23,5

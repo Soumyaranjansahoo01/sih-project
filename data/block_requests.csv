@@ -1,0 +1,437 @@
+request_id,department,section_id,task_id,requested_start,requested_end,duration_minutes,purpose,status
+BR_0001,S&T,1,MT_0001,2026-09-10 02:00:00,2026-09-10 03:30:00,90,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0002,ENG,1,MT_0002,2026-09-10 02:00:00,2026-09-10 03:30:00,90,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0003,S&T,1,MT_0003,2026-09-08 10:00:00,2026-09-08 11:30:00,90,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0004,ENG,1,MT_0004,2026-09-09 04:00:00,2026-09-09 07:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0005,ENG,1,MT_0005,2026-09-12 01:00:00,2026-09-12 04:00:00,180,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0006,OHE,1,MT_0006,2026-09-07 01:00:00,2026-09-07 02:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0007,ENG,1,MT_0007,2026-09-11 23:00:00,2026-09-12 01:30:00,150,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0008,ENG,1,MT_0008,2026-09-10 01:00:00,2026-09-10 03:00:00,120,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0009,ENG,1,MT_0009,2026-09-08 12:00:00,2026-09-08 15:30:00,210,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0010,OHE,1,MT_0010,2026-09-11 12:00:00,2026-09-11 14:30:00,150,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0011,S&T,1,MT_0012,2026-09-07 10:00:00,2026-09-07 12:00:00,120,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0012,ENG,2,MT_0015,2026-09-12 23:00:00,2026-09-13 02:00:00,180,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0013,S&T,2,MT_0017,2026-09-12 04:00:00,2026-09-12 05:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0014,OHE,2,MT_0018,2026-09-12 23:00:00,2026-09-13 00:00:00,60,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0015,S&T,2,MT_0019,2026-09-09 12:00:00,2026-09-09 14:00:00,120,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0016,S&T,2,MT_0020,2026-09-10 12:00:00,2026-09-10 14:00:00,120,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0017,S&T,2,MT_0022,2026-09-09 14:00:00,2026-09-09 15:30:00,90,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0018,OHE,2,MT_0023,2026-09-09 23:00:00,2026-09-10 02:00:00,180,Independent OHE request: Section Insulator Replacement,Requested
+BR_0019,ENG,2,MT_0024,2026-09-11 04:00:00,2026-09-11 06:30:00,150,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0020,S&T,2,MT_0025,2026-09-10 23:00:00,2026-09-11 00:00:00,60,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0021,S&T,3,MT_0026,2026-09-07 01:00:00,2026-09-07 03:30:00,150,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0022,OHE,3,MT_0027,2026-09-08 03:00:00,2026-09-08 04:30:00,90,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0023,OHE,3,MT_0028,2026-09-10 13:00:00,2026-09-10 15:30:00,150,Independent OHE request: Section Insulator Replacement,Requested
+BR_0024,S&T,3,MT_0029,2026-09-10 02:00:00,2026-09-10 04:00:00,120,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0025,ENG,3,MT_0031,2026-09-08 23:00:00,2026-09-09 01:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0026,ENG,3,MT_0032,2026-09-10 04:00:00,2026-09-10 06:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0027,OHE,3,MT_0034,2026-09-13 10:00:00,2026-09-13 12:30:00,150,Independent OHE request: Section Insulator Replacement,Requested
+BR_0028,ENG,3,MT_0035,2026-09-12 13:00:00,2026-09-12 16:00:00,180,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0029,ENG,3,MT_0036,2026-09-13 11:00:00,2026-09-13 12:30:00,90,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0030,ENG,3,MT_0037,2026-09-09 10:00:00,2026-09-09 13:30:00,210,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0031,S&T,4,MT_0039,2026-09-08 13:00:00,2026-09-08 15:00:00,120,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0032,S&T,4,MT_0040,2026-09-07 01:00:00,2026-09-07 02:00:00,60,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0033,OHE,4,MT_0042,2026-09-09 14:00:00,2026-09-09 15:30:00,90,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0034,OHE,4,MT_0043,2026-09-12 12:00:00,2026-09-12 13:30:00,90,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0035,S&T,4,MT_0044,2026-09-07 10:00:00,2026-09-07 12:00:00,120,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0036,ENG,4,MT_0045,2026-09-10 23:00:00,2026-09-11 01:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0037,OHE,4,MT_0046,2026-09-08 04:00:00,2026-09-08 06:30:00,150,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0038,ENG,4,MT_0047,2026-09-07 04:00:00,2026-09-07 06:00:00,120,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0039,OHE,4,MT_0048,2026-09-13 04:00:00,2026-09-13 06:30:00,150,Independent OHE request: Section Insulator Replacement,Requested
+BR_0040,S&T,4,MT_0049,2026-09-08 23:00:00,2026-09-09 00:30:00,90,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0041,S&T,4,MT_0050,2026-09-10 23:00:00,2026-09-11 00:30:00,90,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0042,OHE,5,MT_0051,2026-09-07 04:00:00,2026-09-07 05:30:00,90,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0043,OHE,5,MT_0056,2026-09-13 01:00:00,2026-09-13 03:00:00,120,Independent OHE request: Section Insulator Replacement,Requested
+BR_0044,S&T,5,MT_0057,2026-09-07 02:00:00,2026-09-07 04:30:00,150,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0045,OHE,5,MT_0058,2026-09-09 03:00:00,2026-09-09 05:00:00,120,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0046,ENG,5,MT_0059,2026-09-07 02:00:00,2026-09-07 05:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0047,OHE,5,MT_0060,2026-09-13 23:00:00,2026-09-14 00:30:00,90,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0048,S&T,5,MT_0061,2026-09-12 01:00:00,2026-09-12 03:00:00,120,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0049,S&T,5,MT_0062,2026-09-13 10:00:00,2026-09-13 11:30:00,90,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0050,ENG,6,MT_0064,2026-09-09 14:00:00,2026-09-09 17:30:00,210,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0051,ENG,6,MT_0065,2026-09-13 10:00:00,2026-09-13 12:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0052,S&T,6,MT_0066,2026-09-08 13:00:00,2026-09-08 14:30:00,90,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0053,S&T,6,MT_0067,2026-09-08 02:00:00,2026-09-08 03:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0054,OHE,6,MT_0068,2026-09-10 23:00:00,2026-09-11 01:00:00,120,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0055,ENG,6,MT_0069,2026-09-10 14:00:00,2026-09-10 16:30:00,150,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0056,ENG,6,MT_0070,2026-09-07 04:00:00,2026-09-07 07:00:00,180,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0057,OHE,6,MT_0072,2026-09-07 03:00:00,2026-09-07 04:30:00,90,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0058,OHE,6,MT_0074,2026-09-13 14:00:00,2026-09-13 15:00:00,60,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0059,ENG,7,MT_0076,2026-09-08 01:00:00,2026-09-08 04:00:00,180,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0060,S&T,7,MT_0077,2026-09-13 13:00:00,2026-09-13 14:00:00,60,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0061,ENG,7,MT_0079,2026-09-07 02:00:00,2026-09-07 04:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0062,ENG,7,MT_0080,2026-09-11 10:00:00,2026-09-11 11:30:00,90,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0063,ENG,7,MT_0081,2026-09-12 14:00:00,2026-09-12 16:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0064,OHE,7,MT_0082,2026-09-11 13:00:00,2026-09-11 15:00:00,120,Independent OHE request: Section Insulator Replacement,Requested
+BR_0065,OHE,7,MT_0085,2026-09-09 23:00:00,2026-09-10 01:00:00,120,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0066,ENG,7,MT_0086,2026-09-13 14:00:00,2026-09-13 17:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0067,ENG,7,MT_0087,2026-09-10 10:00:00,2026-09-10 12:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0068,OHE,7,MT_0088,2026-09-09 14:00:00,2026-09-09 15:30:00,90,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0069,S&T,7,MT_0089,2026-09-09 02:00:00,2026-09-09 03:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0070,OHE,8,MT_0091,2026-09-10 01:00:00,2026-09-10 03:00:00,120,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0071,S&T,8,MT_0092,2026-09-08 02:00:00,2026-09-08 04:00:00,120,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0072,OHE,8,MT_0093,2026-09-10 02:00:00,2026-09-10 03:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0073,ENG,8,MT_0095,2026-09-08 13:00:00,2026-09-08 15:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0074,ENG,8,MT_0096,2026-09-11 01:00:00,2026-09-11 02:30:00,90,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0075,OHE,8,MT_0097,2026-09-11 04:00:00,2026-09-11 06:30:00,150,Independent OHE request: Section Insulator Replacement,Requested
+BR_0076,S&T,8,MT_0099,2026-09-09 04:00:00,2026-09-09 06:30:00,150,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0077,OHE,9,MT_0100,2026-09-13 12:00:00,2026-09-13 14:00:00,120,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0078,ENG,9,MT_0102,2026-09-08 11:00:00,2026-09-08 13:00:00,120,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0079,ENG,9,MT_0103,2026-09-08 03:00:00,2026-09-08 05:00:00,120,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0080,ENG,9,MT_0106,2026-09-09 12:00:00,2026-09-09 15:30:00,210,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0081,S&T,9,MT_0107,2026-09-13 04:00:00,2026-09-13 05:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0082,OHE,9,MT_0108,2026-09-10 10:00:00,2026-09-10 11:00:00,60,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0083,ENG,9,MT_0109,2026-09-10 10:00:00,2026-09-10 12:00:00,120,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0084,ENG,9,MT_0110,2026-09-11 03:00:00,2026-09-11 05:00:00,120,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0085,OHE,9,MT_0111,2026-09-13 14:00:00,2026-09-13 15:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0086,OHE,10,MT_0113,2026-09-12 02:00:00,2026-09-12 04:30:00,150,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0087,ENG,10,MT_0115,2026-09-10 03:00:00,2026-09-10 06:00:00,180,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0088,OHE,10,MT_0116,2026-09-10 14:00:00,2026-09-10 16:00:00,120,Independent OHE request: Section Insulator Replacement,Requested
+BR_0089,OHE,10,MT_0117,2026-09-08 23:00:00,2026-09-09 00:30:00,90,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0090,OHE,10,MT_0118,2026-09-13 11:00:00,2026-09-13 13:00:00,120,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0091,S&T,10,MT_0119,2026-09-12 14:00:00,2026-09-12 15:30:00,90,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0092,OHE,10,MT_0122,2026-09-12 04:00:00,2026-09-12 06:00:00,120,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0093,ENG,10,MT_0124,2026-09-10 12:00:00,2026-09-10 14:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0094,ENG,11,MT_0125,2026-09-11 04:00:00,2026-09-11 06:30:00,150,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0095,ENG,11,MT_0126,2026-09-11 02:00:00,2026-09-11 04:30:00,150,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0096,OHE,11,MT_0127,2026-09-10 13:00:00,2026-09-10 14:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0097,ENG,11,MT_0128,2026-09-11 13:00:00,2026-09-11 16:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0098,ENG,11,MT_0130,2026-09-09 11:00:00,2026-09-09 14:00:00,180,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0099,S&T,11,MT_0133,2026-09-13 04:00:00,2026-09-13 05:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0100,S&T,11,MT_0135,2026-09-07 04:00:00,2026-09-07 05:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0101,OHE,12,MT_0136,2026-09-13 14:00:00,2026-09-13 15:30:00,90,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0102,S&T,12,MT_0137,2026-09-08 23:00:00,2026-09-09 00:30:00,90,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0103,OHE,12,MT_0138,2026-09-09 03:00:00,2026-09-09 05:00:00,120,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0104,S&T,12,MT_0140,2026-09-10 12:00:00,2026-09-10 13:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0105,S&T,12,MT_0142,2026-09-08 10:00:00,2026-09-08 12:30:00,150,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0106,S&T,12,MT_0143,2026-09-07 11:00:00,2026-09-07 12:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0107,OHE,12,MT_0144,2026-09-09 11:00:00,2026-09-09 12:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0108,OHE,13,MT_0147,2026-09-11 13:00:00,2026-09-11 15:00:00,120,Independent OHE request: Section Insulator Replacement,Requested
+BR_0109,ENG,13,MT_0148,2026-09-12 11:00:00,2026-09-12 13:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0110,OHE,13,MT_0149,2026-09-12 11:00:00,2026-09-12 13:00:00,120,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0111,ENG,13,MT_0150,2026-09-13 14:00:00,2026-09-13 17:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0112,ENG,13,MT_0153,2026-09-09 10:00:00,2026-09-09 12:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0113,ENG,13,MT_0154,2026-09-09 01:00:00,2026-09-09 03:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0114,S&T,13,MT_0155,2026-09-08 23:00:00,2026-09-09 00:30:00,90,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0115,ENG,13,MT_0156,2026-09-09 12:00:00,2026-09-09 14:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0116,S&T,14,MT_0157,2026-09-11 04:00:00,2026-09-11 06:00:00,120,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0117,ENG,14,MT_0158,2026-09-08 13:00:00,2026-09-08 16:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0118,ENG,14,MT_0160,2026-09-13 11:00:00,2026-09-13 13:30:00,150,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0119,ENG,14,MT_0161,2026-09-08 04:00:00,2026-09-08 06:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0120,ENG,14,MT_0163,2026-09-11 02:00:00,2026-09-11 04:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0121,S&T,14,MT_0164,2026-09-13 01:00:00,2026-09-13 02:30:00,90,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0122,S&T,14,MT_0166,2026-09-10 03:00:00,2026-09-10 05:00:00,120,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0123,ENG,14,MT_0167,2026-09-10 14:00:00,2026-09-10 15:30:00,90,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0124,S&T,14,MT_0168,2026-09-12 12:00:00,2026-09-12 13:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0125,ENG,15,MT_0170,2026-09-12 01:00:00,2026-09-12 03:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0126,S&T,15,MT_0171,2026-09-08 23:00:00,2026-09-09 00:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0127,OHE,15,MT_0172,2026-09-11 13:00:00,2026-09-11 14:30:00,90,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0128,ENG,15,MT_0173,2026-09-13 11:00:00,2026-09-13 14:00:00,180,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0129,S&T,15,MT_0174,2026-09-12 01:00:00,2026-09-12 02:30:00,90,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0130,ENG,15,MT_0178,2026-09-07 14:00:00,2026-09-07 16:00:00,120,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0131,OHE,15,MT_0179,2026-09-13 10:00:00,2026-09-13 11:30:00,90,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0132,ENG,16,MT_0181,2026-09-11 23:00:00,2026-09-12 02:00:00,180,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0133,OHE,16,MT_0183,2026-09-09 14:00:00,2026-09-09 16:30:00,150,Independent OHE request: Section Insulator Replacement,Requested
+BR_0134,S&T,16,MT_0184,2026-09-10 12:00:00,2026-09-10 13:30:00,90,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0135,OHE,16,MT_0185,2026-09-13 03:00:00,2026-09-13 05:00:00,120,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0136,ENG,16,MT_0186,2026-09-11 03:00:00,2026-09-11 06:30:00,210,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0137,ENG,16,MT_0187,2026-09-13 13:00:00,2026-09-13 15:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0138,S&T,16,MT_0189,2026-09-08 04:00:00,2026-09-08 05:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0139,S&T,17,MT_0190,2026-09-13 11:00:00,2026-09-13 13:00:00,120,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0140,OHE,17,MT_0192,2026-09-11 23:00:00,2026-09-12 00:00:00,60,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0141,ENG,17,MT_0194,2026-09-10 03:00:00,2026-09-10 05:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0142,ENG,17,MT_0195,2026-09-13 23:00:00,2026-09-14 02:00:00,180,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0143,S&T,17,MT_0196,2026-09-07 02:00:00,2026-09-07 03:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0144,S&T,17,MT_0197,2026-09-09 03:00:00,2026-09-09 04:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0145,OHE,17,MT_0198,2026-09-09 02:00:00,2026-09-09 03:30:00,90,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0146,OHE,17,MT_0199,2026-09-08 10:00:00,2026-09-08 11:00:00,60,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0147,OHE,17,MT_0200,2026-09-09 11:00:00,2026-09-09 13:30:00,150,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0148,ENG,17,MT_0201,2026-09-13 12:00:00,2026-09-13 15:00:00,180,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0149,ENG,18,MT_0202,2026-09-08 01:00:00,2026-09-08 04:00:00,180,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0150,OHE,18,MT_0203,2026-09-12 12:00:00,2026-09-12 13:00:00,60,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0151,OHE,18,MT_0205,2026-09-13 12:00:00,2026-09-13 15:00:00,180,Independent OHE request: Section Insulator Replacement,Requested
+BR_0152,ENG,18,MT_0209,2026-09-08 23:00:00,2026-09-09 02:00:00,180,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0153,OHE,18,MT_0210,2026-09-13 01:00:00,2026-09-13 02:30:00,90,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0154,OHE,18,MT_0211,2026-09-08 23:00:00,2026-09-09 01:00:00,120,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0155,OHE,18,MT_0212,2026-09-09 11:00:00,2026-09-09 13:00:00,120,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0156,S&T,19,MT_0213,2026-09-07 02:00:00,2026-09-07 03:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0157,S&T,19,MT_0215,2026-09-07 13:00:00,2026-09-07 14:30:00,90,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0158,OHE,19,MT_0216,2026-09-07 01:00:00,2026-09-07 02:30:00,90,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0159,ENG,19,MT_0217,2026-09-09 14:00:00,2026-09-09 16:30:00,150,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0160,OHE,19,MT_0218,2026-09-08 14:00:00,2026-09-08 15:30:00,90,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0161,OHE,19,MT_0219,2026-09-09 14:00:00,2026-09-09 16:00:00,120,Independent OHE request: Section Insulator Replacement,Requested
+BR_0162,OHE,19,MT_0220,2026-09-08 03:00:00,2026-09-08 05:30:00,150,Independent OHE request: Section Insulator Replacement,Requested
+BR_0163,ENG,19,MT_0221,2026-09-08 14:00:00,2026-09-08 17:00:00,180,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0164,S&T,19,MT_0222,2026-09-09 12:00:00,2026-09-09 13:00:00,60,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0165,S&T,19,MT_0223,2026-09-13 03:00:00,2026-09-13 04:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0166,OHE,20,MT_0224,2026-09-08 12:00:00,2026-09-08 13:30:00,90,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0167,OHE,20,MT_0226,2026-09-09 03:00:00,2026-09-09 05:00:00,120,Independent OHE request: Section Insulator Replacement,Requested
+BR_0168,ENG,20,MT_0227,2026-09-07 04:00:00,2026-09-07 05:30:00,90,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0169,OHE,20,MT_0229,2026-09-08 11:00:00,2026-09-08 13:30:00,150,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0170,OHE,20,MT_0231,2026-09-07 02:00:00,2026-09-07 04:30:00,150,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0171,ENG,20,MT_0232,2026-09-07 14:00:00,2026-09-07 17:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0172,ENG,20,MT_0233,2026-09-13 23:00:00,2026-09-14 00:30:00,90,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0173,OHE,20,MT_0235,2026-09-13 03:00:00,2026-09-13 05:00:00,120,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0174,ENG,21,MT_0236,2026-09-08 02:00:00,2026-09-08 03:00:00,60,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0175,OHE,21,MT_0237,2026-09-08 10:00:00,2026-09-08 11:30:00,90,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0176,S&T,21,MT_0238,2026-09-10 04:00:00,2026-09-10 05:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0177,OHE,21,MT_0239,2026-09-09 23:00:00,2026-09-10 00:30:00,90,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0178,OHE,21,MT_0241,2026-09-07 12:00:00,2026-09-07 14:00:00,120,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0179,ENG,21,MT_0244,2026-09-12 14:00:00,2026-09-12 15:30:00,90,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0180,S&T,21,MT_0246,2026-09-11 13:00:00,2026-09-11 15:00:00,120,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0181,ENG,21,MT_0247,2026-09-09 03:00:00,2026-09-09 05:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0182,ENG,21,MT_0248,2026-09-07 10:00:00,2026-09-07 12:00:00,120,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0183,OHE,22,MT_0250,2026-09-11 04:00:00,2026-09-11 05:30:00,90,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0184,ENG,22,MT_0251,2026-09-11 10:00:00,2026-09-11 12:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0185,ENG,22,MT_0252,2026-09-10 13:00:00,2026-09-10 16:00:00,180,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0186,ENG,22,MT_0253,2026-09-13 23:00:00,2026-09-14 00:00:00,60,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0187,OHE,22,MT_0254,2026-09-10 04:00:00,2026-09-10 06:30:00,150,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0188,OHE,22,MT_0256,2026-09-07 23:00:00,2026-09-08 01:00:00,120,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0189,ENG,22,MT_0257,2026-09-08 10:00:00,2026-09-08 12:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0190,ENG,22,MT_0258,2026-09-12 04:00:00,2026-09-12 06:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0191,ENG,22,MT_0259,2026-09-10 14:00:00,2026-09-10 16:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0192,ENG,22,MT_0260,2026-09-12 13:00:00,2026-09-12 15:30:00,150,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0193,OHE,23,MT_0261,2026-09-13 11:00:00,2026-09-13 12:30:00,90,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0194,ENG,23,MT_0263,2026-09-12 14:00:00,2026-09-12 15:30:00,90,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0195,OHE,23,MT_0266,2026-09-08 23:00:00,2026-09-09 00:00:00,60,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0196,OHE,23,MT_0267,2026-09-11 01:00:00,2026-09-11 04:00:00,180,Independent OHE request: Section Insulator Replacement,Requested
+BR_0197,S&T,23,MT_0269,2026-09-10 12:00:00,2026-09-10 14:00:00,120,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0198,OHE,23,MT_0270,2026-09-10 14:00:00,2026-09-10 15:30:00,90,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0199,ENG,23,MT_0271,2026-09-12 23:00:00,2026-09-13 00:30:00,90,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0200,S&T,23,MT_0273,2026-09-10 13:00:00,2026-09-10 15:00:00,120,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0201,ENG,23,MT_0274,2026-09-12 11:00:00,2026-09-12 13:00:00,120,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0202,OHE,24,MT_0276,2026-09-10 04:00:00,2026-09-10 06:00:00,120,Independent OHE request: Section Insulator Replacement,Requested
+BR_0203,OHE,24,MT_0277,2026-09-13 02:00:00,2026-09-13 03:30:00,90,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0204,OHE,24,MT_0278,2026-09-10 11:00:00,2026-09-10 13:00:00,120,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0205,OHE,24,MT_0279,2026-09-12 03:00:00,2026-09-12 04:30:00,90,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0206,S&T,24,MT_0281,2026-09-13 23:00:00,2026-09-14 00:00:00,60,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0207,S&T,24,MT_0282,2026-09-10 12:00:00,2026-09-10 13:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0208,OHE,24,MT_0283,2026-09-13 14:00:00,2026-09-13 16:30:00,150,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0209,OHE,25,MT_0285,2026-09-13 12:00:00,2026-09-13 13:30:00,90,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0210,OHE,25,MT_0286,2026-09-09 03:00:00,2026-09-09 04:30:00,90,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0211,S&T,25,MT_0287,2026-09-11 02:00:00,2026-09-11 03:00:00,60,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0212,ENG,25,MT_0290,2026-09-10 02:00:00,2026-09-10 04:30:00,150,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0213,S&T,25,MT_0291,2026-09-11 12:00:00,2026-09-11 13:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0214,ENG,25,MT_0292,2026-09-12 11:00:00,2026-09-12 14:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0215,ENG,25,MT_0293,2026-09-08 01:00:00,2026-09-08 03:30:00,150,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0216,ENG,25,MT_0294,2026-09-13 11:00:00,2026-09-13 12:30:00,90,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0217,ENG,25,MT_0295,2026-09-07 12:00:00,2026-09-07 13:00:00,60,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0218,OHE,25,MT_0297,2026-09-13 10:00:00,2026-09-13 11:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0219,S&T,26,MT_0298,2026-09-10 12:00:00,2026-09-10 13:30:00,90,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0220,S&T,26,MT_0299,2026-09-12 11:00:00,2026-09-12 13:00:00,120,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0221,S&T,26,MT_0301,2026-09-09 12:00:00,2026-09-09 14:30:00,150,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0222,OHE,26,MT_0302,2026-09-07 04:00:00,2026-09-07 06:00:00,120,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0223,ENG,26,MT_0303,2026-09-12 04:00:00,2026-09-12 06:00:00,120,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0224,S&T,26,MT_0304,2026-09-08 10:00:00,2026-09-08 11:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0225,S&T,26,MT_0306,2026-09-09 01:00:00,2026-09-09 02:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0226,S&T,26,MT_0308,2026-09-13 13:00:00,2026-09-13 15:30:00,150,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0227,ENG,26,MT_0310,2026-09-08 12:00:00,2026-09-08 15:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0228,OHE,27,MT_0311,2026-09-13 14:00:00,2026-09-13 16:30:00,150,Independent OHE request: Section Insulator Replacement,Requested
+BR_0229,OHE,27,MT_0312,2026-09-10 23:00:00,2026-09-11 00:30:00,90,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0230,S&T,27,MT_0313,2026-09-08 12:00:00,2026-09-08 13:30:00,90,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0231,S&T,27,MT_0314,2026-09-10 10:00:00,2026-09-10 12:00:00,120,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0232,ENG,27,MT_0315,2026-09-10 04:00:00,2026-09-10 07:00:00,180,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0233,S&T,27,MT_0316,2026-09-11 04:00:00,2026-09-11 06:00:00,120,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0234,OHE,27,MT_0317,2026-09-09 04:00:00,2026-09-09 07:00:00,180,Independent OHE request: Section Insulator Replacement,Requested
+BR_0235,S&T,27,MT_0318,2026-09-11 13:00:00,2026-09-11 14:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0236,S&T,27,MT_0319,2026-09-13 04:00:00,2026-09-13 05:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0237,ENG,27,MT_0320,2026-09-12 03:00:00,2026-09-12 05:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0238,ENG,27,MT_0321,2026-09-11 12:00:00,2026-09-11 13:30:00,90,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0239,S&T,27,MT_0322,2026-09-12 04:00:00,2026-09-12 05:00:00,60,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0240,S&T,28,MT_0324,2026-09-09 11:00:00,2026-09-09 12:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0241,S&T,28,MT_0325,2026-09-12 01:00:00,2026-09-12 02:00:00,60,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0242,S&T,28,MT_0326,2026-09-09 14:00:00,2026-09-09 15:30:00,90,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0243,S&T,28,MT_0327,2026-09-08 03:00:00,2026-09-08 04:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0244,ENG,28,MT_0328,2026-09-09 13:00:00,2026-09-09 15:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0245,S&T,28,MT_0329,2026-09-09 23:00:00,2026-09-10 01:00:00,120,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0246,S&T,28,MT_0331,2026-09-08 13:00:00,2026-09-08 14:00:00,60,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0247,OHE,28,MT_0332,2026-09-11 14:00:00,2026-09-11 16:30:00,150,Independent OHE request: Section Insulator Replacement,Requested
+BR_0248,OHE,28,MT_0333,2026-09-11 03:00:00,2026-09-11 04:30:00,90,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0249,OHE,28,MT_0334,2026-09-09 01:00:00,2026-09-09 02:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0250,ENG,28,MT_0335,2026-09-09 12:00:00,2026-09-09 14:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0251,ENG,29,MT_0337,2026-09-07 12:00:00,2026-09-07 13:30:00,90,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0252,ENG,29,MT_0338,2026-09-13 14:00:00,2026-09-13 16:30:00,150,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0253,ENG,29,MT_0339,2026-09-09 02:00:00,2026-09-09 03:00:00,60,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0254,ENG,29,MT_0340,2026-09-09 14:00:00,2026-09-09 15:30:00,90,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0255,ENG,29,MT_0341,2026-09-11 11:00:00,2026-09-11 14:00:00,180,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0256,ENG,29,MT_0342,2026-09-09 10:00:00,2026-09-09 12:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0257,ENG,29,MT_0344,2026-09-10 01:00:00,2026-09-10 02:00:00,60,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0258,OHE,29,MT_0345,2026-09-10 03:00:00,2026-09-10 05:30:00,150,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0259,S&T,29,MT_0348,2026-09-11 14:00:00,2026-09-11 15:30:00,90,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0260,S&T,30,MT_0349,2026-09-13 14:00:00,2026-09-13 16:00:00,120,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0261,S&T,30,MT_0350,2026-09-07 14:00:00,2026-09-07 15:30:00,90,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0262,OHE,30,MT_0354,2026-09-08 02:00:00,2026-09-08 03:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0263,OHE,30,MT_0355,2026-09-13 04:00:00,2026-09-13 05:30:00,90,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0264,ENG,30,MT_0356,2026-09-07 02:00:00,2026-09-07 05:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0265,S&T,30,MT_0357,2026-09-07 14:00:00,2026-09-07 15:30:00,90,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0266,S&T,30,MT_0360,2026-09-11 12:00:00,2026-09-11 13:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0267,S&T,31,MT_0361,2026-09-13 23:00:00,2026-09-14 00:30:00,90,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0268,S&T,31,MT_0362,2026-09-10 03:00:00,2026-09-10 04:30:00,90,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0269,ENG,31,MT_0363,2026-09-09 03:00:00,2026-09-09 05:30:00,150,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0270,OHE,31,MT_0364,2026-09-10 04:00:00,2026-09-10 06:30:00,150,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0271,OHE,31,MT_0366,2026-09-12 14:00:00,2026-09-12 16:00:00,120,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0272,OHE,31,MT_0367,2026-09-07 01:00:00,2026-09-07 04:00:00,180,Independent OHE request: Section Insulator Replacement,Requested
+BR_0273,OHE,31,MT_0368,2026-09-07 14:00:00,2026-09-07 16:00:00,120,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0274,ENG,31,MT_0369,2026-09-12 23:00:00,2026-09-13 01:30:00,150,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0275,ENG,31,MT_0370,2026-09-11 10:00:00,2026-09-11 12:00:00,120,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0276,OHE,31,MT_0371,2026-09-09 11:00:00,2026-09-09 13:30:00,150,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0277,ENG,32,MT_0374,2026-09-11 13:00:00,2026-09-11 15:00:00,120,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0278,OHE,32,MT_0377,2026-09-08 02:00:00,2026-09-08 04:30:00,150,Independent OHE request: Section Insulator Replacement,Requested
+BR_0279,OHE,32,MT_0378,2026-09-10 02:00:00,2026-09-10 04:30:00,150,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0280,S&T,32,MT_0379,2026-09-10 03:00:00,2026-09-10 04:30:00,90,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0281,ENG,32,MT_0380,2026-09-09 11:00:00,2026-09-09 14:00:00,180,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0282,S&T,32,MT_0381,2026-09-08 04:00:00,2026-09-08 05:30:00,90,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0283,S&T,32,MT_0382,2026-09-09 03:00:00,2026-09-09 04:30:00,90,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0284,S&T,32,MT_0383,2026-09-13 12:00:00,2026-09-13 13:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0285,S&T,32,MT_0385,2026-09-09 23:00:00,2026-09-10 00:30:00,90,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0286,S&T,33,MT_0386,2026-09-10 13:00:00,2026-09-10 14:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0287,S&T,33,MT_0387,2026-09-07 02:00:00,2026-09-07 04:30:00,150,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0288,OHE,33,MT_0388,2026-09-10 03:00:00,2026-09-10 04:00:00,60,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0289,ENG,33,MT_0389,2026-09-07 23:00:00,2026-09-08 01:30:00,150,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0290,OHE,33,MT_0390,2026-09-08 13:00:00,2026-09-08 14:30:00,90,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0291,S&T,33,MT_0391,2026-09-11 10:00:00,2026-09-11 12:00:00,120,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0292,S&T,33,MT_0394,2026-09-10 03:00:00,2026-09-10 04:30:00,90,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0293,ENG,33,MT_0395,2026-09-13 03:00:00,2026-09-13 04:30:00,90,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0294,OHE,33,MT_0396,2026-09-12 02:00:00,2026-09-12 04:30:00,150,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0295,S&T,33,MT_0397,2026-09-12 03:00:00,2026-09-12 04:30:00,90,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0296,OHE,34,MT_0398,2026-09-09 12:00:00,2026-09-09 15:00:00,180,Independent OHE request: Section Insulator Replacement,Requested
+BR_0297,OHE,34,MT_0399,2026-09-11 01:00:00,2026-09-11 02:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0298,S&T,34,MT_0400,2026-09-13 14:00:00,2026-09-13 15:00:00,60,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0299,ENG,34,MT_0401,2026-09-13 01:00:00,2026-09-13 04:00:00,180,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0300,S&T,34,MT_0402,2026-09-08 03:00:00,2026-09-08 04:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0301,ENG,34,MT_0403,2026-09-11 14:00:00,2026-09-11 16:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0302,ENG,34,MT_0404,2026-09-09 01:00:00,2026-09-09 03:00:00,120,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0303,ENG,34,MT_0405,2026-09-13 10:00:00,2026-09-13 12:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0304,ENG,34,MT_0406,2026-09-08 10:00:00,2026-09-08 12:00:00,120,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0305,S&T,35,MT_0408,2026-09-09 03:00:00,2026-09-09 04:30:00,90,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0306,S&T,35,MT_0409,2026-09-11 10:00:00,2026-09-11 11:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0307,OHE,35,MT_0411,2026-09-07 13:00:00,2026-09-07 16:00:00,180,Independent OHE request: Section Insulator Replacement,Requested
+BR_0308,ENG,35,MT_0412,2026-09-10 10:00:00,2026-09-10 12:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0309,S&T,35,MT_0413,2026-09-11 02:00:00,2026-09-11 04:30:00,150,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0310,S&T,35,MT_0414,2026-09-10 11:00:00,2026-09-10 13:00:00,120,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0311,OHE,35,MT_0415,2026-09-12 11:00:00,2026-09-12 12:00:00,60,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0312,OHE,35,MT_0417,2026-09-07 04:00:00,2026-09-07 05:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0313,ENG,36,MT_0418,2026-09-09 14:00:00,2026-09-09 17:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0314,ENG,36,MT_0419,2026-09-09 01:00:00,2026-09-09 02:00:00,60,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0315,OHE,36,MT_0420,2026-09-09 13:00:00,2026-09-09 14:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0316,ENG,36,MT_0423,2026-09-09 14:00:00,2026-09-09 17:00:00,180,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0317,OHE,36,MT_0426,2026-09-09 13:00:00,2026-09-09 15:30:00,150,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0318,ENG,36,MT_0427,2026-09-09 14:00:00,2026-09-09 17:30:00,210,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0319,ENG,36,MT_0428,2026-09-07 23:00:00,2026-09-08 02:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0320,ENG,36,MT_0429,2026-09-12 11:00:00,2026-09-12 13:00:00,120,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0321,OHE,36,MT_0430,2026-09-09 14:00:00,2026-09-09 16:30:00,150,Independent OHE request: Section Insulator Replacement,Requested
+BR_0322,ENG,36,MT_0431,2026-09-11 12:00:00,2026-09-11 14:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0323,ENG,37,MT_0433,2026-09-11 01:00:00,2026-09-11 02:30:00,90,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0324,OHE,37,MT_0434,2026-09-12 04:00:00,2026-09-12 05:30:00,90,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0325,OHE,37,MT_0436,2026-09-08 03:00:00,2026-09-08 05:00:00,120,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0326,S&T,37,MT_0437,2026-09-11 23:00:00,2026-09-12 00:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0327,ENG,37,MT_0438,2026-09-12 04:00:00,2026-09-12 06:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0328,S&T,37,MT_0440,2026-09-09 03:00:00,2026-09-09 05:30:00,150,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0329,ENG,37,MT_0442,2026-09-11 13:00:00,2026-09-11 14:30:00,90,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0330,S&T,37,MT_0443,2026-09-12 04:00:00,2026-09-12 05:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0331,ENG,37,MT_0444,2026-09-07 12:00:00,2026-09-07 15:00:00,180,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0332,ENG,38,MT_0445,2026-09-12 12:00:00,2026-09-12 14:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0333,S&T,38,MT_0446,2026-09-09 13:00:00,2026-09-09 14:30:00,90,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0334,OHE,38,MT_0447,2026-09-10 10:00:00,2026-09-10 12:30:00,150,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0335,ENG,38,MT_0448,2026-09-07 02:00:00,2026-09-07 05:00:00,180,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0336,ENG,38,MT_0449,2026-09-09 02:00:00,2026-09-09 04:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0337,S&T,38,MT_0450,2026-09-13 01:00:00,2026-09-13 02:30:00,90,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0338,S&T,38,MT_0451,2026-09-08 04:00:00,2026-09-08 05:30:00,90,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0339,ENG,38,MT_0452,2026-09-12 03:00:00,2026-09-12 06:30:00,210,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0340,S&T,38,MT_0453,2026-09-13 13:00:00,2026-09-13 15:00:00,120,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0341,ENG,38,MT_0455,2026-09-09 14:00:00,2026-09-09 16:00:00,120,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0342,ENG,39,MT_0457,2026-09-13 10:00:00,2026-09-13 13:30:00,210,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0343,OHE,39,MT_0458,2026-09-08 01:00:00,2026-09-08 02:30:00,90,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0344,S&T,39,MT_0459,2026-09-10 01:00:00,2026-09-10 03:00:00,120,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0345,S&T,39,MT_0460,2026-09-08 03:00:00,2026-09-08 04:30:00,90,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0346,OHE,39,MT_0463,2026-09-08 10:00:00,2026-09-08 12:00:00,120,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0347,ENG,39,MT_0467,2026-09-07 14:00:00,2026-09-07 16:30:00,150,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0348,OHE,39,MT_0468,2026-09-11 03:00:00,2026-09-11 05:00:00,120,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0349,OHE,40,MT_0470,2026-09-12 04:00:00,2026-09-12 06:00:00,120,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0350,OHE,40,MT_0472,2026-09-09 23:00:00,2026-09-10 00:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0351,ENG,40,MT_0473,2026-09-10 14:00:00,2026-09-10 17:00:00,180,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0352,ENG,40,MT_0477,2026-09-12 14:00:00,2026-09-12 17:00:00,180,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0353,OHE,40,MT_0478,2026-09-13 23:00:00,2026-09-14 01:00:00,120,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0354,S&T,40,MT_0480,2026-09-13 02:00:00,2026-09-13 03:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0355,OHE,41,MT_0483,2026-09-10 13:00:00,2026-09-10 14:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0356,ENG,41,MT_0484,2026-09-07 14:00:00,2026-09-07 17:00:00,180,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0357,S&T,41,MT_0486,2026-09-13 01:00:00,2026-09-13 02:30:00,90,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0358,OHE,41,MT_0488,2026-09-10 23:00:00,2026-09-11 00:30:00,90,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0359,ENG,41,MT_0489,2026-09-08 03:00:00,2026-09-08 06:00:00,180,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0360,S&T,41,MT_0492,2026-09-09 01:00:00,2026-09-09 02:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0361,ENG,41,MT_0494,2026-09-07 01:00:00,2026-09-07 03:30:00,150,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0362,ENG,42,MT_0495,2026-09-13 12:00:00,2026-09-13 14:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0363,S&T,42,MT_0497,2026-09-09 23:00:00,2026-09-10 01:00:00,120,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0364,ENG,42,MT_0498,2026-09-10 12:00:00,2026-09-10 15:00:00,180,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0365,ENG,42,MT_0500,2026-09-07 10:00:00,2026-09-07 11:00:00,60,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0366,S&T,42,MT_0501,2026-09-13 10:00:00,2026-09-13 11:00:00,60,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0367,ENG,42,MT_0502,2026-09-10 10:00:00,2026-09-10 13:30:00,210,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0368,ENG,42,MT_0503,2026-09-11 03:00:00,2026-09-11 04:30:00,90,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0369,ENG,42,MT_0504,2026-09-11 23:00:00,2026-09-12 01:30:00,150,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0370,OHE,43,MT_0506,2026-09-13 10:00:00,2026-09-13 11:30:00,90,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0371,ENG,43,MT_0507,2026-09-08 04:00:00,2026-09-08 06:00:00,120,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0372,ENG,43,MT_0508,2026-09-07 10:00:00,2026-09-07 12:00:00,120,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0373,ENG,43,MT_0510,2026-09-09 10:00:00,2026-09-09 13:00:00,180,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0374,S&T,43,MT_0512,2026-09-09 23:00:00,2026-09-10 00:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0375,S&T,43,MT_0514,2026-09-09 02:00:00,2026-09-09 03:30:00,90,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0376,OHE,43,MT_0515,2026-09-08 14:00:00,2026-09-08 15:30:00,90,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0377,OHE,43,MT_0516,2026-09-11 01:00:00,2026-09-11 02:30:00,90,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0378,OHE,43,MT_0517,2026-09-09 03:00:00,2026-09-09 04:30:00,90,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0379,S&T,44,MT_0518,2026-09-13 01:00:00,2026-09-13 02:00:00,60,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0380,ENG,44,MT_0519,2026-09-11 11:00:00,2026-09-11 13:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0381,ENG,44,MT_0520,2026-09-09 01:00:00,2026-09-09 04:00:00,180,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0382,OHE,44,MT_0522,2026-09-10 13:00:00,2026-09-10 14:30:00,90,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0383,ENG,44,MT_0523,2026-09-11 14:00:00,2026-09-11 15:30:00,90,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0384,ENG,44,MT_0525,2026-09-07 10:00:00,2026-09-07 12:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0385,OHE,44,MT_0526,2026-09-09 23:00:00,2026-09-10 00:30:00,90,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0386,S&T,44,MT_0527,2026-09-12 23:00:00,2026-09-13 00:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0387,S&T,44,MT_0528,2026-09-09 10:00:00,2026-09-09 11:30:00,90,Independent S&T request: Audio Frequency Track Circuit (AFTC) Inspection,Requested
+BR_0388,OHE,45,MT_0529,2026-09-10 12:00:00,2026-09-10 13:30:00,90,Independent OHE request: Catenary & Contact Wire Height Stagger Check,Requested
+BR_0389,OHE,45,MT_0530,2026-09-11 04:00:00,2026-09-11 05:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0390,ENG,45,MT_0533,2026-09-09 03:00:00,2026-09-09 06:00:00,180,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0391,ENG,45,MT_0534,2026-09-08 14:00:00,2026-09-08 17:00:00,180,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0392,S&T,45,MT_0535,2026-09-13 01:00:00,2026-09-13 03:30:00,150,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0393,ENG,45,MT_0537,2026-09-07 02:00:00,2026-09-07 04:00:00,120,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0394,S&T,46,MT_0539,2026-09-07 14:00:00,2026-09-07 15:30:00,90,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0395,OHE,46,MT_0541,2026-09-09 01:00:00,2026-09-09 03:00:00,120,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0396,S&T,46,MT_0542,2026-09-09 14:00:00,2026-09-09 15:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0397,S&T,46,MT_0543,2026-09-07 14:00:00,2026-09-07 15:00:00,60,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0398,OHE,46,MT_0544,2026-09-07 13:00:00,2026-09-07 15:30:00,150,Independent OHE request: Section Insulator Replacement,Requested
+BR_0399,ENG,46,MT_0545,2026-09-09 14:00:00,2026-09-09 16:00:00,120,Independent ENG request: Rail Joint Ultrasonic Testing (USFD),Requested
+BR_0400,ENG,46,MT_0546,2026-09-07 03:00:00,2026-09-07 04:30:00,90,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0401,ENG,46,MT_0547,2026-09-11 03:00:00,2026-09-11 06:30:00,210,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0402,ENG,46,MT_0549,2026-09-13 10:00:00,2026-09-13 13:00:00,180,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0403,S&T,46,MT_0550,2026-09-12 23:00:00,2026-09-13 01:00:00,120,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0404,ENG,47,MT_0551,2026-09-09 12:00:00,2026-09-09 14:30:00,150,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0405,OHE,47,MT_0552,2026-09-12 23:00:00,2026-09-13 01:00:00,120,Independent OHE request: Section Insulator Replacement,Requested
+BR_0406,OHE,47,MT_0553,2026-09-12 03:00:00,2026-09-12 05:00:00,120,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0407,ENG,47,MT_0554,2026-09-12 13:00:00,2026-09-12 15:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0408,S&T,47,MT_0556,2026-09-12 01:00:00,2026-09-12 02:00:00,60,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0409,OHE,47,MT_0557,2026-09-12 23:00:00,2026-09-13 00:00:00,60,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0410,OHE,47,MT_0558,2026-09-11 10:00:00,2026-09-11 12:00:00,120,Independent OHE request: Neutral Section Assembly Inspection,Requested
+BR_0411,ENG,47,MT_0561,2026-09-12 02:00:00,2026-09-12 04:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0412,S&T,48,MT_0563,2026-09-12 11:00:00,2026-09-12 13:30:00,150,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0413,ENG,48,MT_0564,2026-09-12 12:00:00,2026-09-12 14:30:00,150,Independent ENG request: Ballast Cleaning & Screening,Requested
+BR_0414,OHE,48,MT_0566,2026-09-09 14:00:00,2026-09-09 16:30:00,150,Independent OHE request: Section Insulator Replacement,Requested
+BR_0415,S&T,48,MT_0567,2026-09-11 23:00:00,2026-09-12 00:30:00,90,Independent S&T request: Electronic Interlocking (EI) Diagnostic & Redundancy Test,Requested
+BR_0416,S&T,48,MT_0568,2026-09-10 13:00:00,2026-09-10 14:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0417,S&T,48,MT_0570,2026-09-11 14:00:00,2026-09-11 15:00:00,60,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0418,S&T,48,MT_0572,2026-09-12 10:00:00,2026-09-12 11:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0419,S&T,48,MT_0573,2026-09-11 13:00:00,2026-09-11 14:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0420,OHE,49,MT_0577,2026-09-07 02:00:00,2026-09-07 03:30:00,90,Independent OHE request: Dropper Adjustment & Splice Replacement,Requested
+BR_0421,S&T,49,MT_0579,2026-09-08 11:00:00,2026-09-08 12:00:00,60,Independent S&T request: Digital Axle Counter (DAC) Tuning & Calibration,Requested
+BR_0422,OHE,49,MT_0580,2026-09-08 13:00:00,2026-09-08 15:30:00,150,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0423,ENG,49,MT_0582,2026-09-10 14:00:00,2026-09-10 16:00:00,120,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0424,S&T,49,MT_0583,2026-09-07 03:00:00,2026-09-07 04:30:00,90,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0425,S&T,49,MT_0584,2026-09-09 23:00:00,2026-09-10 01:00:00,120,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0426,ENG,50,MT_0587,2026-09-10 23:00:00,2026-09-11 01:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0427,S&T,50,MT_0589,2026-09-11 01:00:00,2026-09-11 03:00:00,120,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested
+BR_0428,ENG,50,MT_0590,2026-09-11 14:00:00,2026-09-11 16:30:00,150,Independent ENG request: Point & Crossing Diamond Overhaul,Requested
+BR_0429,ENG,50,MT_0591,2026-09-13 11:00:00,2026-09-13 13:00:00,120,Independent ENG request: Sleeper Renewal & Ballast Packing,Requested
+BR_0430,S&T,50,MT_0592,2026-09-10 03:00:00,2026-09-10 04:30:00,90,Independent S&T request: Electric Point Machine Overhauling & Obstruction Test,Requested
+BR_0431,OHE,50,MT_0593,2026-09-13 14:00:00,2026-09-13 15:30:00,90,Independent OHE request: Substation Feeder Breaker Maintenance,Requested
+BR_0432,ENG,50,MT_0594,2026-09-09 03:00:00,2026-09-09 04:30:00,90,Independent ENG request: Tamping & Track Alignment,Requested
+BR_0433,OHE,50,MT_0595,2026-09-09 23:00:00,2026-09-10 00:30:00,90,Independent OHE request: Cantilever & Insulator Washing,Requested
+BR_0434,S&T,50,MT_0596,2026-09-11 11:00:00,2026-09-11 12:00:00,60,Independent S&T request: Color Light Signal LED Aspect & Wiring Check,Requested
+BR_0435,ENG,51,MT_0598,2026-09-07 11:00:00,2026-09-07 13:00:00,120,Independent ENG request: Switch Expansion Joint (SEJ) Replacement,Requested
+BR_0436,S&T,51,MT_0599,2026-09-08 01:00:00,2026-09-08 02:30:00,90,Independent S&T request: Block Proving by Axle Counter (BPAC) Validation,Requested

@@ -1,0 +1,221 @@
+train_id,train_number,train_name,train_type,origin,destination,origin_id,destination_id,priority
+TRN_22436,22436,Vande Bharat Express (NDLS-BSB),Vande Bharat,NDLS,BSB,1,104,5
+TRN_22435,22435,Vande Bharat Express (BSB-NDLS),Vande Bharat,BSB,NDLS,104,1,5
+TRN_20888,20888,Vande Bharat Express (PRYJ-NDLS),Vande Bharat,PRYJ,NDLS,92,1,5
+TRN_22416,22416,Vande Bharat Express (NDLS-DDU),Vande Bharat,NDLS,DDU,1,103,5
+TRN_20172,20172,Vande Bharat Express (NDLS-CNB),Vande Bharat,NDLS,CNB,1,62,5
+TRN_12301,12301,Howrah Rajdhani Express (via CNB),Rajdhani,NDLS,DDU,1,103,5
+TRN_12302,12302,New Delhi Rajdhani Express,Rajdhani,DDU,NDLS,103,1,5
+TRN_12423,12423,Dibrugarh Rajdhani Express,Rajdhani,NDLS,DDU,1,103,5
+TRN_12424,12424,New Delhi Dibrugarh Rajdhani,Rajdhani,DDU,NDLS,103,1,5
+TRN_20501,20501,Tejas Rajdhani Express,Rajdhani,NDLS,DDU,1,103,5
+TRN_12305,12305,Kolkata Rajdhani Express,Rajdhani,NDLS,DDU,1,103,5
+TRN_12313,12313,Sealdah Rajdhani Express,Rajdhani,NDLS,DDU,1,103,5
+TRN_12417,12417,Prayagraj Express,Superfast Express,PRYJ,NDLS,92,1,4
+TRN_12418,12418,Prayagraj Express Return,Superfast Express,NDLS,PRYJ,1,92,4
+TRN_12397,12397,Mahabodhi Express,Superfast Express,DDU,NDLS,103,1,4
+TRN_12398,12398,Mahabodhi Express Return,Superfast Express,NDLS,DDU,1,103,4
+TRN_12559,12559,Shiv Ganga Express,Superfast Express,BSB,NDLS,104,1,4
+TRN_12560,12560,Shiv Ganga Express Return,Superfast Express,NDLS,BSB,1,104,4
+TRN_12451,12451,Shram Shakti Express,Superfast Express,CNB,NDLS,62,1,4
+TRN_12452,12452,Shram Shakti Express Return,Superfast Express,NDLS,CNB,1,62,4
+TRN_12801,12801,Purushottam Express,Superfast Express,DDU,NDLS,103,1,4
+TRN_12802,12802,Purushottam Express Return,Superfast Express,NDLS,DDU,1,103,4
+TRN_12381,12381,Poorva Express,Superfast Express,NDLS,DDU,1,103,4
+TRN_12382,12382,Poorva Express Return,Superfast Express,DDU,NDLS,103,1,4
+TRN_12487,12487,Seemanchal Express,Superfast Express,ANVT,DDU,6,103,4
+TRN_12581,12581,Banaras Superfast Express,Superfast Express,BSB,NDLS,104,1,4
+TRN_12427,12427,Rewa Express,Superfast Express,PRYJ,ANVT,92,6,4
+TRN_12553,12553,Vaishali Express,Superfast Express,NDLS,CNB,1,62,4
+TRN_12420,12420,Gomti Express,Superfast Express,NDLS,LKO,1,67,4
+TRN_12004,12004,Lucknow Swarna Shatabdi,Shatabdi,NDLS,LKO,1,67,5
+TRN_12003,12003,New Delhi Swarna Shatabdi,Shatabdi,LKO,NDLS,67,1,5
+TRN_14217,14217,Unchahar Express,Mail/Express,PRYJ,CNB,92,62,3
+TRN_14218,14218,Unchahar Express Return,Mail/Express,CNB,PRYJ,62,92,3
+TRN_14163,14163,Sangam Express,Mail/Express,PRYJ,ALJN,92,25,3
+TRN_64583,64583,Tundla - Delhi MEMU,Suburban MEMU,TDL,NDLS,34,1,2
+TRN_64584,64584,Delhi - Tundla MEMU,Suburban MEMU,NDLS,TDL,1,34,2
+TRN_64591,64591,Kanpur - Fatehpur MEMU,Suburban MEMU,CNB,FTP,62,78,2
+TRN_64592,64592,Fatehpur - Kanpur MEMU,Suburban MEMU,FTP,CNB,78,62,2
+TRN_64153,64153,Kanpur - Etawah MEMU,Suburban MEMU,CNB,ETW,62,44,2
+TRN_64154,64154,Etawah - Kanpur MEMU,Suburban MEMU,ETW,CNB,44,62,2
+TRN_64593,64593,Kanpur - Prayagraj MEMU,Suburban MEMU,CNB,PRYJ,62,92,2
+TRN_64594,64594,Prayagraj - Kanpur MEMU,Suburban MEMU,PRYJ,CNB,92,62,2
+TRN_BOXN_101,BOXN_101,Dadri Thermal Coal Rake 1,Goods/Freight,DDU,DER,103,11,1
+TRN_BOXN_102,BOXN_102,Dadri Thermal Coal Rake 2,Goods/Freight,DDU,DER,103,11,1
+TRN_BCN_201,BCN_201,Food Corporation Grain Special,Goods/Freight,GZB,DDU,9,103,2
+TRN_CONCOR_301,CONCOR_301,Dadri Container Depot Express,Goods/Freight,DER,DDU,11,103,2
+TRN_CONCOR_302,CONCOR_302,DDU Inland Container Feeder,Goods/Freight,DDU,DER,103,11,2
+TRN_BTPN_401,BTPN_401,Petroleum Tanker Special,Goods/Freight,CNB,GZB,62,9,2
+TRN_RO_RO_501,RO_RO_501,Automobile Carrier Special,Goods/Freight,NDLS,DDU,1,103,1
+TRN_12300,12300,FTP-ALJN Superfast Express,Superfast Express,FTP,ALJN,78,25,4
+TRN_22200,22200,ANVT-TDL Mail/Express,Mail/Express,ANVT,TDL,6,34,3
+TRN_FRT_5484,FRT_5484,Freight Corridor Rake (TDL-PRYJ),Goods/Freight,TDL,PRYJ,34,92,1
+TRN_12479,12479,LKO-FTP Superfast Express,Superfast Express,LKO,FTP,67,78,4
+TRN_22466,22466,ANVT-MZP Superfast Express,Superfast Express,ANVT,MZP,6,101,4
+TRN_12774,12774,LKO-PRYJ Superfast Express,Superfast Express,LKO,PRYJ,67,92,4
+TRN_64827,64827,ETW - ANVT Passenger MEMU,Suburban MEMU,ETW,ANVT,44,6,2
+TRN_14564,14564,ANVT-LKO Superfast Express,Superfast Express,ANVT,LKO,6,67,4
+TRN_22911,22911,NDLS-ETW Superfast Express,Superfast Express,NDLS,ETW,1,44,4
+TRN_FRT_6319,FRT_6319,Freight Corridor Rake (ALJN-CNB),Goods/Freight,ALJN,CNB,25,62,1
+TRN_12134,12134,PRYJ-ALJN Superfast Express,Superfast Express,PRYJ,ALJN,92,25,4
+TRN_FRT_3504,FRT_3504,Freight Corridor Rake (MZP-NDLS),Goods/Freight,MZP,NDLS,101,1,1
+TRN_22932,22932,ANVT-ETW Mail/Express,Mail/Express,ANVT,ETW,6,44,3
+TRN_FRT_8898,FRT_8898,Freight Corridor Rake (ANVT-TDL),Goods/Freight,ANVT,TDL,6,34,1
+TRN_12864,12864,LKO-TDL Mail/Express,Mail/Express,LKO,TDL,67,34,3
+TRN_64959,64959,FTP - TDL Passenger MEMU,Suburban MEMU,FTP,TDL,78,34,2
+TRN_14524,14524,TDL-DDU Superfast Express,Superfast Express,TDL,DDU,34,103,4
+TRN_14560,14560,ETW-ALJN Superfast Express,Superfast Express,ETW,ALJN,44,25,4
+TRN_64962,64962,ETW - NDLS Passenger MEMU,Suburban MEMU,ETW,NDLS,44,1,2
+TRN_12296,12296,PRYJ-LKO Superfast Express,Superfast Express,PRYJ,LKO,92,67,4
+TRN_22667,22667,CNB-FTP Superfast Express,Superfast Express,CNB,FTP,62,78,4
+TRN_12665,12665,MZP-NDLS Mail/Express,Mail/Express,MZP,NDLS,101,1,3
+TRN_14355,14355,LKO-PRYJ Superfast Express,Superfast Express,LKO,PRYJ,67,92,4
+TRN_FRT_5386,FRT_5386,Freight Corridor Rake (MZP-GZB),Goods/Freight,MZP,GZB,101,9,1
+TRN_12210,12210,ETW-ANVT Superfast Express,Superfast Express,ETW,ANVT,44,6,4
+TRN_22877,22877,TDL-FTP Superfast Express,Superfast Express,TDL,FTP,34,78,4
+TRN_12123,12123,FTP-DDU Mail/Express,Mail/Express,FTP,DDU,78,103,3
+TRN_14301,14301,PRYJ-ANVT Superfast Express,Superfast Express,PRYJ,ANVT,92,6,4
+TRN_FRT_2264,FRT_2264,Freight Corridor Rake (CNB-ALJN),Goods/Freight,CNB,ALJN,62,25,1
+TRN_64120,64120,ETW - CNB Passenger MEMU,Suburban MEMU,ETW,CNB,44,62,2
+TRN_12157,12157,ANVT-DDU Mail/Express,Mail/Express,ANVT,DDU,6,103,3
+TRN_12841,12841,LKO-ANVT Mail/Express,Mail/Express,LKO,ANVT,67,6,3
+TRN_12655,12655,DDU-FTP Mail/Express,Mail/Express,DDU,FTP,103,78,3
+TRN_14411,14411,DDU-NDLS Superfast Express,Superfast Express,DDU,NDLS,103,1,4
+TRN_22759,22759,CNB-PRYJ Superfast Express,Superfast Express,CNB,PRYJ,62,92,4
+TRN_FRT_4404,FRT_4404,Freight Corridor Rake (ETW-ALJN),Goods/Freight,ETW,ALJN,44,25,1
+TRN_22643,22643,TDL-DDU Mail/Express,Mail/Express,TDL,DDU,34,103,3
+TRN_22771,22771,PRYJ-MZP Superfast Express,Superfast Express,PRYJ,MZP,92,101,4
+TRN_14258,14258,CNB-FTP Mail/Express,Mail/Express,CNB,FTP,62,78,3
+TRN_14754,14754,ETW-NDLS Superfast Express,Superfast Express,ETW,NDLS,44,1,4
+TRN_22687,22687,GZB-ETW Superfast Express,Superfast Express,GZB,ETW,9,44,4
+TRN_FRT_9232,FRT_9232,Freight Corridor Rake (LKO-ETW),Goods/Freight,LKO,ETW,67,44,1
+TRN_12239,12239,LKO-CNB Superfast Express,Superfast Express,LKO,CNB,67,62,4
+TRN_14547,14547,DDU-NDLS Superfast Express,Superfast Express,DDU,NDLS,103,1,4
+TRN_FRT_9964,FRT_9964,Freight Corridor Rake (NDLS-FTP),Goods/Freight,NDLS,FTP,1,78,1
+TRN_FRT_9898,FRT_9898,Freight Corridor Rake (PRYJ-CNB),Goods/Freight,PRYJ,CNB,92,62,1
+TRN_FRT_9879,FRT_9879,Freight Corridor Rake (LKO-GZB),Goods/Freight,LKO,GZB,67,9,1
+TRN_12792,12792,NDLS-GZB Superfast Express,Superfast Express,NDLS,GZB,1,9,4
+TRN_12504,12504,LKO-GZB Mail/Express,Mail/Express,LKO,GZB,67,9,3
+TRN_FRT_7716,FRT_7716,Freight Corridor Rake (LKO-MZP),Goods/Freight,LKO,MZP,67,101,1
+TRN_22417,22417,NDLS-CNB Mail/Express,Mail/Express,NDLS,CNB,1,62,3
+TRN_FRT_4530,FRT_4530,Freight Corridor Rake (ANVT-PRYJ),Goods/Freight,ANVT,PRYJ,6,92,1
+TRN_64444,64444,TDL - NDLS Passenger MEMU,Suburban MEMU,TDL,NDLS,34,1,2
+TRN_14251,14251,ETW-DDU Mail/Express,Mail/Express,ETW,DDU,44,103,3
+TRN_14476,14476,PRYJ-LKO Mail/Express,Mail/Express,PRYJ,LKO,92,67,3
+TRN_64812,64812,GZB - DDU Passenger MEMU,Suburban MEMU,GZB,DDU,9,103,2
+TRN_14438,14438,NDLS-LKO Superfast Express,Superfast Express,NDLS,LKO,1,67,4
+TRN_FRT_4450,FRT_4450,Freight Corridor Rake (GZB-TDL),Goods/Freight,GZB,TDL,9,34,1
+TRN_22368,22368,ALJN-TDL Superfast Express,Superfast Express,ALJN,TDL,25,34,4
+TRN_22623,22623,ANVT-GZB Superfast Express,Superfast Express,ANVT,GZB,6,9,4
+TRN_22143,22143,FTP-ALJN Superfast Express,Superfast Express,FTP,ALJN,78,25,4
+TRN_14253,14253,NDLS-GZB Mail/Express,Mail/Express,NDLS,GZB,1,9,3
+TRN_FRT_7866,FRT_7866,Freight Corridor Rake (PRYJ-FTP),Goods/Freight,PRYJ,FTP,92,78,1
+TRN_14155,14155,ALJN-ANVT Superfast Express,Superfast Express,ALJN,ANVT,25,6,4
+TRN_22521,22521,MZP-TDL Mail/Express,Mail/Express,MZP,TDL,101,34,3
+TRN_22638,22638,NDLS-MZP Superfast Express,Superfast Express,NDLS,MZP,1,101,4
+TRN_12240,12240,LKO-MZP Superfast Express,Superfast Express,LKO,MZP,67,101,4
+TRN_12355,12355,FTP-NDLS Mail/Express,Mail/Express,FTP,NDLS,78,1,3
+TRN_14681,14681,PRYJ-DDU Superfast Express,Superfast Express,PRYJ,DDU,92,103,4
+TRN_FRT_3658,FRT_3658,Freight Corridor Rake (ETW-MZP),Goods/Freight,ETW,MZP,44,101,1
+TRN_FRT_1426,FRT_1426,Freight Corridor Rake (LKO-FTP),Goods/Freight,LKO,FTP,67,78,1
+TRN_FRT_8007,FRT_8007,Freight Corridor Rake (PRYJ-GZB),Goods/Freight,PRYJ,GZB,92,9,1
+TRN_FRT_5304,FRT_5304,Freight Corridor Rake (PRYJ-CNB),Goods/Freight,PRYJ,CNB,92,62,1
+TRN_22973,22973,FTP-DDU Superfast Express,Superfast Express,FTP,DDU,78,103,4
+TRN_14401,14401,ANVT-MZP Mail/Express,Mail/Express,ANVT,MZP,6,101,3
+TRN_22182,22182,ETW-NDLS Mail/Express,Mail/Express,ETW,NDLS,44,1,3
+TRN_22488,22488,ANVT-TDL Mail/Express,Mail/Express,ANVT,TDL,6,34,3
+TRN_64710,64710,LKO - PRYJ Passenger MEMU,Suburban MEMU,LKO,PRYJ,67,92,2
+TRN_12407,12407,ANVT-ETW Mail/Express,Mail/Express,ANVT,ETW,6,44,3
+TRN_FRT_3608,FRT_3608,Freight Corridor Rake (GZB-FTP),Goods/Freight,GZB,FTP,9,78,1
+TRN_14530,14530,LKO-ALJN Mail/Express,Mail/Express,LKO,ALJN,67,25,3
+TRN_14916,14916,MZP-ANVT Mail/Express,Mail/Express,MZP,ANVT,101,6,3
+TRN_FRT_4682,FRT_4682,Freight Corridor Rake (TDL-CNB),Goods/Freight,TDL,CNB,34,62,1
+TRN_12415,12415,ALJN-GZB Superfast Express,Superfast Express,ALJN,GZB,25,9,4
+TRN_14367,14367,NDLS-GZB Mail/Express,Mail/Express,NDLS,GZB,1,9,3
+TRN_64239,64239,DDU - TDL Passenger MEMU,Suburban MEMU,DDU,TDL,103,34,2
+TRN_12507,12507,LKO-ALJN Mail/Express,Mail/Express,LKO,ALJN,67,25,3
+TRN_22345,22345,DDU-TDL Mail/Express,Mail/Express,DDU,TDL,103,34,3
+TRN_14868,14868,CNB-GZB Superfast Express,Superfast Express,CNB,GZB,62,9,4
+TRN_14391,14391,MZP-GZB Superfast Express,Superfast Express,MZP,GZB,101,9,4
+TRN_22770,22770,PRYJ-ANVT Superfast Express,Superfast Express,PRYJ,ANVT,92,6,4
+TRN_12917,12917,ALJN-LKO Mail/Express,Mail/Express,ALJN,LKO,25,67,3
+TRN_22937,22937,GZB-DDU Mail/Express,Mail/Express,GZB,DDU,9,103,3
+TRN_FRT_2684,FRT_2684,Freight Corridor Rake (DDU-FTP),Goods/Freight,DDU,FTP,103,78,1
+TRN_22882,22882,ETW-ALJN Mail/Express,Mail/Express,ETW,ALJN,44,25,3
+TRN_64515,64515,DDU - MZP Passenger MEMU,Suburban MEMU,DDU,MZP,103,101,2
+TRN_12540,12540,DDU-ETW Mail/Express,Mail/Express,DDU,ETW,103,44,3
+TRN_64711,64711,NDLS - PRYJ Passenger MEMU,Suburban MEMU,NDLS,PRYJ,1,92,2
+TRN_14121,14121,ETW-MZP Mail/Express,Mail/Express,ETW,MZP,44,101,3
+TRN_22779,22779,MZP-NDLS Mail/Express,Mail/Express,MZP,NDLS,101,1,3
+TRN_FRT_1100,FRT_1100,Freight Corridor Rake (MZP-LKO),Goods/Freight,MZP,LKO,101,67,1
+TRN_14972,14972,GZB-CNB Mail/Express,Mail/Express,GZB,CNB,9,62,3
+TRN_64876,64876,DDU - MZP Passenger MEMU,Suburban MEMU,DDU,MZP,103,101,2
+TRN_12583,12583,ETW-TDL Mail/Express,Mail/Express,ETW,TDL,44,34,3
+TRN_22677,22677,NDLS-ETW Superfast Express,Superfast Express,NDLS,ETW,1,44,4
+TRN_22801,22801,ANVT-NDLS Mail/Express,Mail/Express,ANVT,NDLS,6,1,3
+TRN_22907,22907,PRYJ-ALJN Mail/Express,Mail/Express,PRYJ,ALJN,92,25,3
+TRN_64454,64454,LKO - NDLS Passenger MEMU,Suburban MEMU,LKO,NDLS,67,1,2
+TRN_64279,64279,PRYJ - DDU Passenger MEMU,Suburban MEMU,PRYJ,DDU,92,103,2
+TRN_14363,14363,FTP-NDLS Superfast Express,Superfast Express,FTP,NDLS,78,1,4
+TRN_12343,12343,ANVT-NDLS Mail/Express,Mail/Express,ANVT,NDLS,6,1,3
+TRN_14242,14242,CNB-LKO Superfast Express,Superfast Express,CNB,LKO,62,67,4
+TRN_22640,22640,FTP-DDU Superfast Express,Superfast Express,FTP,DDU,78,103,4
+TRN_14154,14154,ETW-CNB Mail/Express,Mail/Express,ETW,CNB,44,62,3
+TRN_14615,14615,TDL-GZB Mail/Express,Mail/Express,TDL,GZB,34,9,3
+TRN_12264,12264,PRYJ-ANVT Superfast Express,Superfast Express,PRYJ,ANVT,92,6,4
+TRN_14827,14827,MZP-NDLS Superfast Express,Superfast Express,MZP,NDLS,101,1,4
+TRN_14573,14573,ANVT-PRYJ Superfast Express,Superfast Express,ANVT,PRYJ,6,92,4
+TRN_14958,14958,LKO-CNB Mail/Express,Mail/Express,LKO,CNB,67,62,3
+TRN_64759,64759,MZP - CNB Passenger MEMU,Suburban MEMU,MZP,CNB,101,62,2
+TRN_64777,64777,ANVT - DDU Passenger MEMU,Suburban MEMU,ANVT,DDU,6,103,2
+TRN_22215,22215,PRYJ-GZB Mail/Express,Mail/Express,PRYJ,GZB,92,9,3
+TRN_12703,12703,LKO-ANVT Superfast Express,Superfast Express,LKO,ANVT,67,6,4
+TRN_22991,22991,MZP-ETW Superfast Express,Superfast Express,MZP,ETW,101,44,4
+TRN_22957,22957,ALJN-PRYJ Superfast Express,Superfast Express,ALJN,PRYJ,25,92,4
+TRN_22767,22767,FTP-ETW Superfast Express,Superfast Express,FTP,ETW,78,44,4
+TRN_14164,14164,LKO-DDU Superfast Express,Superfast Express,LKO,DDU,67,103,4
+TRN_22513,22513,DDU-ALJN Mail/Express,Mail/Express,DDU,ALJN,103,25,3
+TRN_FRT_6005,FRT_6005,Freight Corridor Rake (PRYJ-ALJN),Goods/Freight,PRYJ,ALJN,92,25,1
+TRN_FRT_8260,FRT_8260,Freight Corridor Rake (CNB-TDL),Goods/Freight,CNB,TDL,62,34,1
+TRN_FRT_6041,FRT_6041,Freight Corridor Rake (DDU-MZP),Goods/Freight,DDU,MZP,103,101,1
+TRN_14687,14687,ANVT-NDLS Superfast Express,Superfast Express,ANVT,NDLS,6,1,4
+TRN_64474,64474,MZP - NDLS Passenger MEMU,Suburban MEMU,MZP,NDLS,101,1,2
+TRN_14957,14957,ETW-PRYJ Superfast Express,Superfast Express,ETW,PRYJ,44,92,4
+TRN_14300,14300,DDU-TDL Mail/Express,Mail/Express,DDU,TDL,103,34,3
+TRN_64629,64629,MZP - NDLS Passenger MEMU,Suburban MEMU,MZP,NDLS,101,1,2
+TRN_22613,22613,FTP-MZP Mail/Express,Mail/Express,FTP,MZP,78,101,3
+TRN_14781,14781,ALJN-NDLS Superfast Express,Superfast Express,ALJN,NDLS,25,1,4
+TRN_14449,14449,LKO-MZP Superfast Express,Superfast Express,LKO,MZP,67,101,4
+TRN_22952,22952,PRYJ-ALJN Mail/Express,Mail/Express,PRYJ,ALJN,92,25,3
+TRN_64309,64309,LKO - MZP Passenger MEMU,Suburban MEMU,LKO,MZP,67,101,2
+TRN_14214,14214,CNB-ANVT Superfast Express,Superfast Express,CNB,ANVT,62,6,4
+TRN_22349,22349,ALJN-LKO Superfast Express,Superfast Express,ALJN,LKO,25,67,4
+TRN_FRT_6835,FRT_6835,Freight Corridor Rake (ETW-ANVT),Goods/Freight,ETW,ANVT,44,6,1
+TRN_14589,14589,LKO-CNB Mail/Express,Mail/Express,LKO,CNB,67,62,3
+TRN_12513,12513,LKO-ALJN Superfast Express,Superfast Express,LKO,ALJN,67,25,4
+TRN_14470,14470,GZB-TDL Superfast Express,Superfast Express,GZB,TDL,9,34,4
+TRN_14354,14354,LKO-ALJN Mail/Express,Mail/Express,LKO,ALJN,67,25,3
+TRN_12243,12243,GZB-CNB Superfast Express,Superfast Express,GZB,CNB,9,62,4
+TRN_22233,22233,PRYJ-CNB Mail/Express,Mail/Express,PRYJ,CNB,92,62,3
+TRN_FRT_6686,FRT_6686,Freight Corridor Rake (CNB-ETW),Goods/Freight,CNB,ETW,62,44,1
+TRN_FRT_1157,FRT_1157,Freight Corridor Rake (TDL-GZB),Goods/Freight,TDL,GZB,34,9,1
+TRN_14550,14550,NDLS-ALJN Superfast Express,Superfast Express,NDLS,ALJN,1,25,4
+TRN_14784,14784,PRYJ-DDU Superfast Express,Superfast Express,PRYJ,DDU,92,103,4
+TRN_64403,64403,CNB - TDL Passenger MEMU,Suburban MEMU,CNB,TDL,62,34,2
+TRN_FRT_3848,FRT_3848,Freight Corridor Rake (FTP-LKO),Goods/Freight,FTP,LKO,78,67,1
+TRN_FRT_7445,FRT_7445,Freight Corridor Rake (PRYJ-ALJN),Goods/Freight,PRYJ,ALJN,92,25,1
+TRN_12775,12775,CNB-DDU Mail/Express,Mail/Express,CNB,DDU,62,103,3
+TRN_22692,22692,DDU-NDLS Superfast Express,Superfast Express,DDU,NDLS,103,1,4
+TRN_12234,12234,CNB-MZP Superfast Express,Superfast Express,CNB,MZP,62,101,4
+TRN_FRT_9991,FRT_9991,Freight Corridor Rake (ALJN-PRYJ),Goods/Freight,ALJN,PRYJ,25,92,1
+TRN_FRT_6020,FRT_6020,Freight Corridor Rake (ETW-FTP),Goods/Freight,ETW,FTP,44,78,1
+TRN_FRT_9867,FRT_9867,Freight Corridor Rake (GZB-CNB),Goods/Freight,GZB,CNB,9,62,1
+TRN_12188,12188,TDL-NDLS Superfast Express,Superfast Express,TDL,NDLS,34,1,4
+TRN_14418,14418,MZP-ETW Mail/Express,Mail/Express,MZP,ETW,101,44,3
+TRN_64864,64864,ALJN - MZP Passenger MEMU,Suburban MEMU,ALJN,MZP,25,101,2
+TRN_22661,22661,PRYJ-ETW Superfast Express,Superfast Express,PRYJ,ETW,92,44,4
+TRN_22144,22144,FTP-DDU Mail/Express,Mail/Express,FTP,DDU,78,103,3
+TRN_22734,22734,FTP-CNB Superfast Express,Superfast Express,FTP,CNB,78,62,4
+TRN_22285,22285,MZP-DDU Superfast Express,Superfast Express,MZP,DDU,101,103,4
+TRN_FRT_6767,FRT_6767,Freight Corridor Rake (GZB-MZP),Goods/Freight,GZB,MZP,9,101,1
