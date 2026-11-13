@@ -106,7 +106,7 @@ def get_weekly_schedule(db: Session = Depends(get_db)):
     Returns the 7-day hourly detailed block schedule.
     """
     service = OptimizationService(db=db)
-    return service.run_optimization(horizon_days=7)
+    return service.get_comparison()
 
 
 @router.get("/schedule/monthly")
@@ -115,7 +115,7 @@ def get_monthly_schedule(db: Session = Depends(get_db)):
     Returns the 30-day aggregated block schedule.
     """
     service = OptimizationService(db=db)
-    return service.run_optimization(horizon_days=30, time_limit_seconds=60)
+    return service.get_comparison()
 
 
 @router.get("/comparison")

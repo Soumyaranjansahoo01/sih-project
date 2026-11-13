@@ -1,10 +1,18 @@
 import axios from 'axios';
 
-// Connect through Vite proxy /api or fallback to localhost:8000
-const API_BASE = '/api';
+// Dynamically resolve API base URL for localhost, 127.0.0.1, and LAN IP addresses
+const getBaseUrl = () => {
+  if (typeof window !== 'undefined' && window.location) {
+    const hostname = window.location.hostname;
+    if (hostname && hostname !== 'localhost' && hostname !== '127.0.0.1') {
+      return `http://${hostname}:8000`;
+    }
+  }
+  return '/api';
+};
 
 const apiClient = axios.create({
-  baseURL: API_BASE,
+  baseURL: getBaseUrl(),
   timeout: 60000,
   headers: {
     'Content-Type': 'application/json',
